@@ -7,9 +7,25 @@
 </head>
 <body>
     <h1>Snow oracle 2</h1>
-    <h4>Mon Jan 13 09:10:03 PST 2020</h4>
+    <h4>Mon Jan 13 10:04:19 PST 2020</h4>
 
-    <iframe width="1400" height="1000" frameborder="0" src="./layers.html"></iframe>
-    <iframe width="1400" height="1000" frameborder="0" src="./events.html"></iframe>
+    <br /><b>Layers graph</b> represents historical precipitation events for stations during the last week.
+    Discrete events are separated by <font color="#daa520>">goldenrod</font> lines.
+    Events below a <font color="red">red</font> line are older than 3 days.
+    Each event consists of three sub-bars representing temperatures at the start, middle and end of precipitation event.
+    Blues are temperatures below freezing with darker shades representing colder temperatures.
+    Greens are temperatures above freezing with the darker shades being warmer temperatures.
+    Hovering over a bar shows some extra information about the event.
+    Freezing level is merely an approximation by extrapolation.
+    Events which are still in progress will have <i>NaT</i> in <i>To</i> rubrick.<br />
+    <iframe width="1400" height="950" frameborder="0" src="./layers.html"></iframe>
+
+    <br /><b>Precipitation events graph</b> is a scatter plot of precipitation events during the week.
+    Temperature is represented on x-axis, while cummulative amount on y-axis (size of bubbles also indicates the amount of precipitation).
+    Bubbles are positioned on x-axis based on average temperature during event and lines extending to the sides show temperature extremes.
+    Color of the bubble represents how much time has passed since the end of event, with lighter shades being older events.
+    Hovering over a bar shows some extra information about the event.
+    Events which are still in progress will have <i>NaT</i> in <i>To</i> rubrick.<br />
+    <iframe width="1400" height="950" frameborder="0" src="./events.html"></iframe>
 </body>
 </html>
