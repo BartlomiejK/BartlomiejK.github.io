@@ -1,0 +1,72 @@
+*** start 2020-01-28 23:25:10.550572
+updating Alpental - Mid-Mountain
+  http://www.nwac.us/data-portal/csv/q?datalogger_id=2&year=2020 => ./data/raw/2.csv
+updating Alpental - Summit
+  http://www.nwac.us/data-portal/csv/q?datalogger_id=3&year=2020 => ./data/raw/3.csv
+  retrying (5 left)...
+updating Olympics - Hurricane Ridge
+  http://www.nwac.us/data-portal/csv/q?datalogger_id=4&year=2020 => ./data/raw/4.csv
+updating Washington Pass - Base
+  http://www.nwac.us/data-portal/csv/q?datalogger_id=8&year=2020 => ./data/raw/8.csv
+  retrying (5 left)...
+updating Stevens Pass - Brooks Wind
+  http://www.nwac.us/data-portal/csv/q?datalogger_id=15&year=2020 => ./data/raw/15.csv
+  missing data
+updating White Pass - Base
+  http://www.nwac.us/data-portal/csv/q?datalogger_id=37&year=2020 => ./data/raw/37.csv
+  retrying (5 left)...
+  missing data
+updating Mount Saint Helens - Coldwater
+  http://www.nwac.us/data-portal/csv/q?datalogger_id=40&year=2020 => ./data/raw/40.csv
+  missing data
+processing Alpental - Base
+processing Alpental - Mid-Mountain
+processing Alpental - Summit
+processing Olympics - Hurricane Ridge
+processing Mount Baker - Heather Meadows
+processing Mount Baker - Pan Dome
+processing Mazama - Mazama
+processing Washington Pass - Base
+processing Washington Pass - Upper
+processing Lake Wenatchee - Dirty Face Summit
+processing Lake Wenatchee - Lake Wenatchee
+processing Stevens Pass - Berne Snow Camp
+processing Stevens Pass - Schmidt Haus
+processing Stevens Pass - Grace Lakes
+processing Stevens Pass - Brooks Wind
+processing Stevens Pass - Skyline
+processing Stevens Pass - Tye Mill
+processing Leavenworth - Tumwater Mountain
+processing Snoqualmie Pass - Mt Washington
+processing Snoqualmie Pass - Snoqualmie Pass
+processing Snoqualmie Pass - Dodge Ridge
+processing Snoqualmie Pass - East Shed
+processing Mission Ridge - Base
+processing Mission Ridge - Summit
+processing Mission Ridge - Mid-Mountain
+processing Crystal - Green Valley
+processing Crystal - Base
+processing Crystal - Summit
+processing Sunrise - Upper
+processing Sunrise - Base
+processing Chinook Pass - Summit
+processing Chinook Pass - Base
+processing Mount Rainier - Camp Muir
+processing Mount Rainier - Paradise
+processing Mount Rainier - Paradise Wind
+processing White Pass - Base
+processing White Pass - Upper
+processing Mount Saint Helens - Coldwater
+processing Mount Hood Meadows - Cascade Express
+processing Mount Hood Meadows - Blue
+processing Mount Hood Meadows - Base
+processing Timberline - Lodge
+processing Timberline - Magic Mile
+processing Ski Bowl - Base
+processing Ski Bowl - Summit
+processing Blewett Pass - Blewett Pass
+processing White Pass - Pigtail Peak
+processing Stevens Pass - Brooks
+processing Crystal - Shop
+processing Leavenworth - Leavenworth
+processing Crystal - Campbell Basin
