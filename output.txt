@@ -1,149 +1,94 @@
-*** start 2020-01-30 06:10:15.677199
+*** begin 2020-01-30 10:10:12.720153
 updating Alpental - Base
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=1&year=2020 => ./data/raw/1.csv
 updating Alpental - Mid-Mountain
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=2&year=2020 => ./data/raw/2.csv
 updating Alpental - Summit
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=3&year=2020 => ./data/raw/3.csv
 updating Olympics - Hurricane Ridge
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=4&year=2020 => ./data/raw/4.csv
 updating Mount Baker - Heather Meadows
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=5&year=2020 => ./data/raw/5.csv
   retrying (5 left)...
   retrying (4 left)...
 updating Mount Baker - Pan Dome
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=6&year=2020 => ./data/raw/6.csv
 updating Mazama - Mazama
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=7&year=2020 => ./data/raw/7.csv
-  stale data (2020-01-30 05:00:00)
-updating Washington Pass - Base
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=8&year=2020 => ./data/raw/8.csv
-updating Washington Pass - Upper
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=9&year=2020 => ./data/raw/9.csv
   retrying (5 left)...
-  retrying (4 left)...
+  stale data (2020-01-30 09:00:00)
+updating Washington Pass - Base
+updating Washington Pass - Upper
+  retrying (5 left)...
 updating Lake Wenatchee - Dirty Face Summit
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=10&year=2020 => ./data/raw/10.csv
 updating Lake Wenatchee - Lake Wenatchee
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=11&year=2020 => ./data/raw/11.csv
-  stale data (2020-01-30 05:00:00)
+  stale data (2020-01-30 09:00:00)
 updating Stevens Pass - Berne Snow Camp
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=12&year=2020 => ./data/raw/12.csv
-  stale data (2020-01-30 05:00:00)
+  stale data (2020-01-30 09:00:00)
 updating Stevens Pass - Schmidt Haus
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=13&year=2020 => ./data/raw/13.csv
   retrying (5 left)...
   retrying (4 left)...
 updating Stevens Pass - Grace Lakes
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=14&year=2020 => ./data/raw/14.csv
-  retrying (5 left)...
 updating Stevens Pass - Brooks Wind
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=15&year=2020 => ./data/raw/15.csv
+  retrying (5 left)...
   missing data
 updating Stevens Pass - Skyline
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=17&year=2020 => ./data/raw/17.csv
 updating Stevens Pass - Tye Mill
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=18&year=2020 => ./data/raw/18.csv
   retrying (5 left)...
   retrying (4 left)...
-  retrying (3 left)...
 updating Leavenworth - Tumwater Mountain
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=19&year=2020 => ./data/raw/19.csv
+  retrying (5 left)...
+  stale data (2020-01-30 08:00:00)
 updating Snoqualmie Pass - Mt Washington
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=20&year=2020 => ./data/raw/20.csv
   retrying (5 left)...
 updating Snoqualmie Pass - Snoqualmie Pass
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=21&year=2020 => ./data/raw/21.csv
 updating Snoqualmie Pass - Dodge Ridge
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=22&year=2020 => ./data/raw/22.csv
 updating Snoqualmie Pass - East Shed
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=23&year=2020 => ./data/raw/23.csv
+  retrying (5 left)...
 updating Mission Ridge - Base
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=24&year=2020 => ./data/raw/24.csv
-  retrying (5 left)...
-  retrying (4 left)...
 updating Mission Ridge - Summit
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=25&year=2020 => ./data/raw/25.csv
 updating Mission Ridge - Mid-Mountain
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=26&year=2020 => ./data/raw/26.csv
   retrying (5 left)...
+  retrying (4 left)...
 updating Crystal - Green Valley
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=27&year=2020 => ./data/raw/27.csv
 updating Crystal - Base
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=28&year=2020 => ./data/raw/28.csv
   retrying (5 left)...
-  retrying (4 left)...
 updating Crystal - Summit
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=29&year=2020 => ./data/raw/29.csv
+  retrying (5 left)...
+  retrying (4 left)...
 updating Sunrise - Upper
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=30&year=2020 => ./data/raw/30.csv
-  retrying (5 left)...
-  retrying (4 left)...
 updating Sunrise - Base
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=31&year=2020 => ./data/raw/31.csv
+  retrying (5 left)...
 updating Chinook Pass - Summit
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=32&year=2020 => ./data/raw/32.csv
-  retrying (5 left)...
-  retrying (4 left)...
-  retrying (3 left)...
-  retrying (2 left)...
 updating Chinook Pass - Base
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=33&year=2020 => ./data/raw/33.csv
-updating Mount Rainier - Camp Muir
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=34&year=2020 => ./data/raw/34.csv
   retrying (5 left)...
   retrying (4 left)...
-  retrying (3 left)...
+updating Mount Rainier - Camp Muir
 updating Mount Rainier - Paradise
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=35&year=2020 => ./data/raw/35.csv
 updating Mount Rainier - Paradise Wind
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=36&year=2020 => ./data/raw/36.csv
   retrying (5 left)...
   retrying (4 left)...
 updating White Pass - Base
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=37&year=2020 => ./data/raw/37.csv
   missing data
 updating White Pass - Upper
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=39&year=2020 => ./data/raw/39.csv
 updating Mount Saint Helens - Coldwater
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=40&year=2020 => ./data/raw/40.csv
+  retrying (5 left)...
   missing data
 updating Mount Hood Meadows - Cascade Express
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=41&year=2020 => ./data/raw/41.csv
-  retrying (5 left)...
-  retrying (4 left)...
 updating Mount Hood Meadows - Blue
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=42&year=2020 => ./data/raw/42.csv
-  retrying (5 left)...
 updating Mount Hood Meadows - Base
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=43&year=2020 => ./data/raw/43.csv
   retrying (5 left)...
 updating Timberline - Lodge
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=44&year=2020 => ./data/raw/44.csv
+  retrying (5 left)...
 updating Timberline - Magic Mile
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=45&year=2020 => ./data/raw/45.csv
+  retrying (5 left)...
 updating Ski Bowl - Base
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=46&year=2020 => ./data/raw/46.csv
   stale data (2020-01-27 15:00:00)
 updating Ski Bowl - Summit
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=47&year=2020 => ./data/raw/47.csv
+  retrying (5 left)...
+updating Blewett Pass - Blewett Pass
+updating White Pass - Pigtail Peak
   retrying (5 left)...
   retrying (4 left)...
-updating Blewett Pass - Blewett Pass
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=48&year=2020 => ./data/raw/48.csv
-updating White Pass - Pigtail Peak
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=49&year=2020 => ./data/raw/49.csv
 updating Stevens Pass - Brooks
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=50&year=2020 => ./data/raw/50.csv
 updating Crystal - Shop
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=52&year=2020 => ./data/raw/52.csv
   retrying (5 left)...
   retrying (4 left)...
 updating Leavenworth - Leavenworth
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=53&year=2020 => ./data/raw/53.csv
 updating Crystal - Campbell Basin
-  http://www.nwac.us/data-portal/csv/q?datalogger_id=54&year=2020 => ./data/raw/54.csv
-  retrying (5 left)...
 processing Alpental - Base
 processing Alpental - Mid-Mountain
 processing Alpental - Summit
@@ -195,3 +140,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
+*** end 2020-01-30 10:33:59.194168
