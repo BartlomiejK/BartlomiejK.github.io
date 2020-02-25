@@ -1,31 +1,32 @@
-*** begin 2020-02-24 18:10:16.078955
+*** begin 2020-02-24 22:10:15.558669
 updating Alpental - Base
 updating Alpental - Mid-Mountain
 updating Alpental - Summit
 updating Olympics - Hurricane Ridge
+  stale data (2020-02-24 21:00:00)
 updating Mount Baker - Heather Meadows
 updating Mount Baker - Pan Dome
 updating Mazama - Mazama
   retrying (5 left)...
   retrying (4 left)...
-  stale data (2020-02-24 17:00:00)
+  stale data (2020-02-24 21:00:00)
 updating Washington Pass - Base
 updating Washington Pass - Upper
 updating Lake Wenatchee - Dirty Face Summit
-  stale data (2020-02-24 17:00:00)
+  stale data (2020-02-24 21:00:00)
 updating Lake Wenatchee - Lake Wenatchee
-  retrying (5 left)...
-  retrying (4 left)...
-  stale data (2020-02-24 17:00:00)
+  stale data (2020-02-24 21:00:00)
 updating Stevens Pass - Berne Snow Camp
-  stale data (2020-02-24 17:00:00)
+  stale data (2020-02-24 21:00:00)
 updating Stevens Pass - Schmidt Haus
   retrying (5 left)...
+  retrying (4 left)...
 updating Stevens Pass - Grace Lakes
 updating Stevens Pass - Brooks Wind
   missing data
 updating Stevens Pass - Skyline
 updating Stevens Pass - Tye Mill
+  retrying (5 left)...
 updating Leavenworth - Tumwater Mountain
   stale data (2020-01-31 11:00:00)
 updating Snoqualmie Pass - Mt Washington
@@ -59,25 +60,26 @@ updating White Pass - Upper
 updating Mount Saint Helens - Coldwater
   missing data
 updating Mount Hood Meadows - Cascade Express
-  retrying (5 left)...
 updating Mount Hood Meadows - Blue
-  retrying (5 left)...
 updating Mount Hood Meadows - Base
+  retrying (5 left)...
+  retrying (4 left)...
 updating Timberline - Lodge
 updating Timberline - Magic Mile
 updating Ski Bowl - Base
-  retrying (5 left)...
-  retrying (4 left)...
   stale data (2020-01-27 15:00:00)
 updating Ski Bowl - Summit
-  retrying (5 left)...
 updating Blewett Pass - Blewett Pass
 updating White Pass - Pigtail Peak
-updating Stevens Pass - Brooks
   retrying (5 left)...
+  retrying (4 left)...
+  retrying (3 left)...
+updating Stevens Pass - Brooks
 updating Crystal - Shop
 updating Leavenworth - Leavenworth
 updating Crystal - Campbell Basin
+  retrying (5 left)...
+  retrying (4 left)...
 processing Alpental - Base
 processing Alpental - Mid-Mountain
 processing Alpental - Summit
@@ -129,4 +131,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2020-02-24 18:24:22.126457
+*** end 2020-02-24 22:25:09.413764
