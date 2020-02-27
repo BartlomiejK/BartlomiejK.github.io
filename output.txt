@@ -1,4 +1,4 @@
-*** begin 2020-02-27 10:10:08.069730
+*** begin 2020-02-27 14:10:09.598874
 updating Alpental - Base
 updating Alpental - Mid-Mountain
 updating Alpental - Summit
@@ -8,15 +8,15 @@ updating Mount Baker - Pan Dome
 updating Mazama - Mazama
   retrying (5 left)...
   retrying (4 left)...
-  stale data (2020-02-27 09:00:00)
+  stale data (2020-02-27 13:00:00)
 updating Washington Pass - Base
 updating Washington Pass - Upper
 updating Lake Wenatchee - Dirty Face Summit
-  stale data (2020-02-27 09:00:00)
+  stale data (2020-02-27 13:00:00)
 updating Lake Wenatchee - Lake Wenatchee
-  stale data (2020-02-27 09:00:00)
+  stale data (2020-02-27 13:00:00)
 updating Stevens Pass - Berne Snow Camp
-  stale data (2020-02-27 09:00:00)
+  stale data (2020-02-27 13:00:00)
 updating Stevens Pass - Schmidt Haus
   retrying (5 left)...
   retrying (4 left)...
@@ -38,8 +38,8 @@ updating Mission Ridge - Summit
   retrying (5 left)...
   retrying (4 left)...
 updating Mission Ridge - Mid-Mountain
-updating Crystal - Green Valley
   retrying (5 left)...
+updating Crystal - Green Valley
 updating Crystal - Base
 updating Crystal - Summit
   retrying (5 left)...
@@ -65,19 +65,19 @@ updating Mount Hood Meadows - Blue
 updating Mount Hood Meadows - Base
 updating Timberline - Lodge
 updating Timberline - Magic Mile
-  retrying (5 left)...
 updating Ski Bowl - Base
   stale data (2020-01-27 15:00:00)
 updating Ski Bowl - Summit
 updating Blewett Pass - Blewett Pass
   retrying (5 left)...
+  retrying (4 left)...
 updating White Pass - Pigtail Peak
+  retrying (5 left)...
 updating Stevens Pass - Brooks
 updating Crystal - Shop
-  retrying (5 left)...
-  retrying (4 left)...
 updating Leavenworth - Leavenworth
 updating Crystal - Campbell Basin
+  retrying (5 left)...
 processing Alpental - Base
 processing Alpental - Mid-Mountain
 processing Alpental - Summit
@@ -129,4 +129,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2020-02-27 10:24:11.624627
+*** end 2020-02-27 14:24:13.734671
