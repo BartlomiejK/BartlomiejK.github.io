@@ -1,68 +1,69 @@
-*** begin 2020-02-28 22:10:09.130697
+*** begin 2020-02-29 06:10:10.497473
 updating Alpental - Base
 updating Alpental - Mid-Mountain
 updating Alpental - Summit
 updating Olympics - Hurricane Ridge
 updating Mount Baker - Heather Meadows
-updating Mount Baker - Pan Dome
   retrying (5 left)...
-  retrying (4 left)...
+updating Mount Baker - Pan Dome
 updating Mazama - Mazama
-  stale data (2020-02-28 21:00:00)
+  stale data (2020-02-29 05:00:00)
 updating Washington Pass - Base
 updating Washington Pass - Upper
 updating Lake Wenatchee - Dirty Face Summit
   retrying (5 left)...
+  stale data (2020-02-29 05:00:00)
 updating Lake Wenatchee - Lake Wenatchee
   retrying (5 left)...
-  stale data (2020-02-28 21:00:00)
+  stale data (2020-02-29 05:00:00)
 updating Stevens Pass - Berne Snow Camp
-  stale data (2020-02-28 21:00:00)
+  stale data (2020-02-29 05:00:00)
 updating Stevens Pass - Schmidt Haus
 updating Stevens Pass - Grace Lakes
-updating Stevens Pass - Brooks Wind
   retrying (5 left)...
+  retrying (4 left)...
+updating Stevens Pass - Brooks Wind
   missing data
 updating Stevens Pass - Skyline
   retrying (5 left)...
+  retrying (4 left)...
 updating Stevens Pass - Tye Mill
 updating Leavenworth - Tumwater Mountain
   stale data (2020-01-31 11:00:00)
 updating Snoqualmie Pass - Mt Washington
-  retrying (5 left)...
-  retrying (4 left)...
 updating Snoqualmie Pass - Snoqualmie Pass
+  retrying (5 left)...
 updating Snoqualmie Pass - Dodge Ridge
+  retrying (5 left)...
 updating Snoqualmie Pass - East Shed
 updating Mission Ridge - Base
-  retrying (5 left)...
-  retrying (4 left)...
 updating Mission Ridge - Summit
 updating Mission Ridge - Mid-Mountain
-updating Crystal - Green Valley
-updating Crystal - Base
   retrying (5 left)...
-  retrying (4 left)...
+updating Crystal - Green Valley
+  retrying (5 left)...
+updating Crystal - Base
 updating Crystal - Summit
 updating Sunrise - Upper
   stale data (2020-02-21 22:00:00)
 updating Sunrise - Base
+  retrying (5 left)...
+  retrying (4 left)...
 updating Chinook Pass - Summit
 updating Chinook Pass - Base
-  retrying (5 left)...
 updating Mount Rainier - Camp Muir
 updating Mount Rainier - Paradise
 updating Mount Rainier - Paradise Wind
+  retrying (5 left)...
 updating White Pass - Base
+  retrying (5 left)...
   missing data
 updating White Pass - Upper
-  retrying (5 left)...
 updating Mount Saint Helens - Coldwater
-  retrying (5 left)...
   missing data
 updating Mount Hood Meadows - Cascade Express
-updating Mount Hood Meadows - Blue
   retrying (5 left)...
+updating Mount Hood Meadows - Blue
 updating Mount Hood Meadows - Base
   retrying (5 left)...
 updating Timberline - Lodge
@@ -72,15 +73,15 @@ updating Ski Bowl - Base
   stale data (2020-01-27 15:00:00)
 updating Ski Bowl - Summit
 updating Blewett Pass - Blewett Pass
-  retrying (5 left)...
-  retrying (4 left)...
 updating White Pass - Pigtail Peak
 updating Stevens Pass - Brooks
   retrying (5 left)...
-  stale data (2020-02-28 10:00:00)
+  retrying (4 left)...
 updating Crystal - Shop
 updating Leavenworth - Leavenworth
+  retrying (5 left)...
 updating Crystal - Campbell Basin
+  retrying (5 left)...
 processing Alpental - Base
 processing Alpental - Mid-Mountain
 processing Alpental - Summit
@@ -132,4 +133,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2020-02-28 22:26:29.842520
+*** end 2020-02-29 06:27:18.189867
