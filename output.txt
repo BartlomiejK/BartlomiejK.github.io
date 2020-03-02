@@ -1,32 +1,31 @@
-*** begin 2020-03-01 18:10:08.514408
+*** begin 2020-03-01 22:10:07.881223
 updating Alpental - Base
 updating Alpental - Mid-Mountain
 updating Alpental - Summit
 updating Olympics - Hurricane Ridge
-  stale data (2020-03-01 17:00:00)
 updating Mount Baker - Heather Meadows
 updating Mount Baker - Pan Dome
   retrying (5 left)...
 updating Mazama - Mazama
   retrying (5 left)...
-  stale data (2020-03-01 17:00:00)
+  stale data (2020-03-01 21:00:00)
 updating Washington Pass - Base
 updating Washington Pass - Upper
 updating Lake Wenatchee - Dirty Face Summit
-  stale data (2020-03-01 17:00:00)
-updating Lake Wenatchee - Lake Wenatchee
-  stale data (2020-03-01 17:00:00)
-updating Stevens Pass - Berne Snow Camp
-  stale data (2020-03-01 17:00:00)
-updating Stevens Pass - Schmidt Haus
   retrying (5 left)...
-  retrying (4 left)...
+updating Lake Wenatchee - Lake Wenatchee
+  stale data (2020-03-01 21:00:00)
+updating Stevens Pass - Berne Snow Camp
+  stale data (2020-03-01 21:00:00)
+updating Stevens Pass - Schmidt Haus
 updating Stevens Pass - Grace Lakes
 updating Stevens Pass - Brooks Wind
   missing data
 updating Stevens Pass - Skyline
   retrying (5 left)...
+  retrying (4 left)...
 updating Stevens Pass - Tye Mill
+  stale data (2020-03-01 21:00:00)
 updating Leavenworth - Tumwater Mountain
   stale data (2020-01-31 11:00:00)
 updating Snoqualmie Pass - Mt Washington
@@ -34,11 +33,12 @@ updating Snoqualmie Pass - Mt Washington
 updating Snoqualmie Pass - Snoqualmie Pass
 updating Snoqualmie Pass - Dodge Ridge
 updating Snoqualmie Pass - East Shed
+  retrying (5 left)...
+  retrying (4 left)...
 updating Mission Ridge - Base
 updating Mission Ridge - Summit
 updating Mission Ridge - Mid-Mountain
   retrying (5 left)...
-  retrying (4 left)...
 updating Crystal - Green Valley
 updating Crystal - Base
 updating Crystal - Summit
@@ -62,22 +62,22 @@ updating Mount Saint Helens - Coldwater
 updating Mount Hood Meadows - Cascade Express
 updating Mount Hood Meadows - Blue
 updating Mount Hood Meadows - Base
-  retrying (5 left)...
 updating Timberline - Lodge
-  retrying (5 left)...
 updating Timberline - Magic Mile
   retrying (5 left)...
+  retrying (4 left)...
 updating Ski Bowl - Base
   retrying (5 left)...
   stale data (2020-01-27 15:00:00)
 updating Ski Bowl - Summit
 updating Blewett Pass - Blewett Pass
+  retrying (5 left)...
 updating White Pass - Pigtail Peak
 updating Stevens Pass - Brooks
   retrying (5 left)...
-  retrying (4 left)...
 updating Crystal - Shop
 updating Leavenworth - Leavenworth
+  retrying (5 left)...
 updating Crystal - Campbell Basin
 processing Alpental - Base
 processing Alpental - Mid-Mountain
@@ -130,4 +130,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2020-03-01 18:24:13.026593
+*** end 2020-03-01 22:24:59.962425
