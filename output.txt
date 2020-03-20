@@ -1,82 +1,82 @@
-*** begin 2020-03-19 22:10:12.663966
+*** begin 2020-03-20 06:10:08.776405
 updating Alpental - Base
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Alpental - Mid-Mountain
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Alpental - Summit
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Olympics - Hurricane Ridge
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Mount Baker - Heather Meadows
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Mount Baker - Pan Dome
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Mazama - Mazama
   retrying (5 left)...
   retrying (4 left)...
-  stale data (2020-03-19 20:00:00)
+  stale data (2020-03-20 04:00:00)
 updating Washington Pass - Base
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Washington Pass - Upper
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Lake Wenatchee - Dirty Face Summit
-  stale data (2020-03-19 21:00:00)
+  retrying (5 left)...
+  stale data (2020-03-20 05:00:00)
 updating Lake Wenatchee - Lake Wenatchee
-  stale data (2020-03-19 20:00:00)
+  stale data (2020-03-20 04:00:00)
 updating Stevens Pass - Berne Snow Camp
-  retrying (5 left)...
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Stevens Pass - Schmidt Haus
-  retrying (5 left)...
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Stevens Pass - Grace Lakes
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Stevens Pass - Brooks Wind
   missing data
 updating Stevens Pass - Skyline
   retrying (5 left)...
-  stale data (2020-03-19 21:00:00)
+  retrying (4 left)...
+  stale data (2020-03-20 05:00:00)
 updating Stevens Pass - Tye Mill
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Leavenworth - Tumwater Mountain
   stale data (2020-01-31 11:00:00)
 updating Snoqualmie Pass - Mt Washington
   retrying (5 left)...
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Snoqualmie Pass - Snoqualmie Pass
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Snoqualmie Pass - Dodge Ridge
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Snoqualmie Pass - East Shed
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Mission Ridge - Base
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Mission Ridge - Summit
-  stale data (2020-03-19 21:00:00)
+  retrying (5 left)...
+  stale data (2020-03-20 05:00:00)
 updating Mission Ridge - Mid-Mountain
   retrying (5 left)...
-  retrying (4 left)...
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Crystal - Green Valley
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Crystal - Base
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Crystal - Summit
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Sunrise - Upper
-  retrying (5 left)...
   stale data (2020-02-21 22:00:00)
 updating Sunrise - Base
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Chinook Pass - Summit
   retrying (5 left)...
-  stale data (2020-03-19 21:00:00)
+  retrying (4 left)...
+  stale data (2020-03-20 05:00:00)
 updating Chinook Pass - Base
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Mount Rainier - Camp Muir
-  stale data (2020-03-19 20:00:00)
+  stale data (2020-03-20 04:00:00)
 updating Mount Rainier - Paradise
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Mount Rainier - Paradise Wind
   stale data (2020-03-17 19:00:00)
 updating White Pass - Base
@@ -84,37 +84,37 @@ updating White Pass - Base
 updating White Pass - Upper
   retrying (5 left)...
   retrying (4 left)...
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Mount Saint Helens - Coldwater
   missing data
 updating Mount Hood Meadows - Cascade Express
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Mount Hood Meadows - Blue
-  retrying (5 left)...
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Mount Hood Meadows - Base
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Timberline - Lodge
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Timberline - Magic Mile
   retrying (5 left)...
-  stale data (2020-03-19 21:00:00)
+  retrying (4 left)...
+  stale data (2020-03-20 05:00:00)
 updating Ski Bowl - Base
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Ski Bowl - Summit
-  stale data (2020-03-19 14:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Blewett Pass - Blewett Pass
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating White Pass - Pigtail Peak
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Stevens Pass - Brooks
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Crystal - Shop
   retrying (5 left)...
   retrying (4 left)...
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Leavenworth - Leavenworth
-  stale data (2020-03-19 21:00:00)
+  stale data (2020-03-20 05:00:00)
 updating Crystal - Campbell Basin
   stale data (2020-03-18 19:00:00)
 processing Alpental - Base
@@ -168,4 +168,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2020-03-19 22:22:50.294692
+*** end 2020-03-20 06:22:46.079011
