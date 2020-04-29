@@ -1,124 +1,114 @@
-*** begin 2020-04-28 18:10:15.241772
+*** begin 2020-04-28 22:10:17.991836
 updating Alpental - Base
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Alpental - Mid-Mountain
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Alpental - Summit
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Olympics - Hurricane Ridge
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Mount Baker - Heather Meadows
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Mount Baker - Pan Dome
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Mazama - Mazama
-  retrying (5 left)...
-  retrying (4 left)...
-  stale data (2020-04-28 16:00:00)
+  stale data (2020-04-28 20:00:00)
 updating Washington Pass - Base
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Washington Pass - Upper
-  stale data (2020-04-28 17:00:00)
+  retrying (5 left)...
+  stale data (2020-04-28 21:00:00)
 updating Lake Wenatchee - Dirty Face Summit
-  stale data (2020-04-28 16:00:00)
+  stale data (2020-04-28 20:00:00)
 updating Lake Wenatchee - Lake Wenatchee
-  stale data (2020-04-28 16:00:00)
+  stale data (2020-04-28 20:00:00)
 updating Stevens Pass - Berne Snow Camp
   retrying (5 left)...
-  retrying (4 left)...
-  stale data (2020-04-28 16:00:00)
+  stale data (2020-04-28 20:00:00)
 updating Stevens Pass - Schmidt Haus
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Stevens Pass - Grace Lakes
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Stevens Pass - Brooks Wind
   missing data
 updating Stevens Pass - Skyline
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 20:00:00)
 updating Stevens Pass - Tye Mill
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Leavenworth - Tumwater Mountain
   retrying (5 left)...
-  retrying (4 left)...
   stale data (2020-02-07 02:00:00)
 updating Snoqualmie Pass - Mt Washington
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Snoqualmie Pass - Snoqualmie Pass
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Snoqualmie Pass - Dodge Ridge
-  stale data (2020-04-28 17:00:00)
-updating Snoqualmie Pass - East Shed
-  stale data (2020-04-28 17:00:00)
-updating Mission Ridge - Base
-  stale data (2020-04-28 17:00:00)
-updating Mission Ridge - Summit
   retrying (5 left)...
-  retrying (4 left)...
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
+updating Snoqualmie Pass - East Shed
+  stale data (2020-04-28 21:00:00)
+updating Mission Ridge - Base
+  stale data (2020-04-28 21:00:00)
+updating Mission Ridge - Summit
+  stale data (2020-04-28 21:00:00)
 updating Mission Ridge - Mid-Mountain
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Crystal - Green Valley
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Crystal - Base
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Crystal - Summit
   retrying (5 left)...
-  retrying (4 left)...
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Sunrise - Upper
   stale data (2020-02-21 22:00:00)
 updating Sunrise - Base
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Chinook Pass - Summit
-  stale data (2020-04-28 17:00:00)
-updating Chinook Pass - Base
-  stale data (2020-04-28 17:00:00)
-updating Mount Rainier - Camp Muir
-  stale data (2020-04-28 17:00:00)
-updating Mount Rainier - Paradise
   retrying (5 left)...
-  retrying (4 left)...
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
+updating Chinook Pass - Base
+  stale data (2020-04-28 21:00:00)
+updating Mount Rainier - Camp Muir
+  stale data (2020-04-28 21:00:00)
+updating Mount Rainier - Paradise
+  stale data (2020-04-28 21:00:00)
 updating Mount Rainier - Paradise Wind
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating White Pass - Base
   missing data
 updating White Pass - Upper
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Mount Saint Helens - Coldwater
+  retrying (5 left)...
   missing data
 updating Mount Hood Meadows - Cascade Express
   stale data (2020-04-11 08:00:00)
 updating Mount Hood Meadows - Blue
-  retrying (5 left)...
-  retrying (4 left)...
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Mount Hood Meadows - Base
-  retrying (5 left)...
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Timberline - Lodge
-  stale data (2020-04-28 17:00:00)
+  retrying (5 left)...
+  stale data (2020-04-28 21:00:00)
 updating Timberline - Magic Mile
   stale data (2020-04-28 11:00:00)
 updating Ski Bowl - Base
   retrying (5 left)...
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Ski Bowl - Summit
   stale data (2020-03-27 15:00:00)
 updating Blewett Pass - Blewett Pass
-  retrying (5 left)...
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating White Pass - Pigtail Peak
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Stevens Pass - Brooks
-  stale data (2020-04-28 17:00:00)
+  retrying (5 left)...
+  stale data (2020-04-28 21:00:00)
 updating Crystal - Shop
-  retrying (5 left)...
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Leavenworth - Leavenworth
-  retrying (5 left)...
-  retrying (4 left)...
-  stale data (2020-04-28 17:00:00)
+  stale data (2020-04-28 21:00:00)
 updating Crystal - Campbell Basin
   stale data (2020-03-18 19:00:00)
 processing Alpental - Base
@@ -172,4 +162,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2020-04-28 18:26:11.866619
+*** end 2020-04-28 22:19:00.262405
