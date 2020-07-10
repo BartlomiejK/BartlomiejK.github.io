@@ -1,123 +1,127 @@
-*** begin 2020-07-09 18:10:13.705804
+*** begin 2020-07-09 22:10:13.392488
 updating Alpental - Base
-  retrying (5 left)...
-  retrying (4 left)...
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Alpental - Mid-Mountain
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Alpental - Summit
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Olympics - Hurricane Ridge
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 19:00:00)
 updating Mount Baker - Heather Meadows
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Mount Baker - Pan Dome
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Mazama - Mazama
   retrying (5 left)...
   retrying (4 left)...
-  stale data (2020-07-09 16:00:00)
+  stale data (2020-07-09 20:00:00)
 updating Washington Pass - Base
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Washington Pass - Upper
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Lake Wenatchee - Dirty Face Summit
-  stale data (2020-07-09 17:00:00)
+  retrying (5 left)...
+  stale data (2020-07-09 21:00:00)
 updating Lake Wenatchee - Lake Wenatchee
-  stale data (2020-07-09 16:00:00)
+  stale data (2020-07-09 20:00:00)
 updating Stevens Pass - Berne Snow Camp
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Stevens Pass - Schmidt Haus
   retrying (5 left)...
-  retrying (4 left)...
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Stevens Pass - Grace Lakes
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Stevens Pass - Brooks Wind
   missing data
 updating Stevens Pass - Skyline
-  stale data (2020-07-09 17:00:00)
-updating Stevens Pass - Tye Mill
-  stale data (2020-07-09 17:00:00)
-updating Leavenworth - Tumwater Mountain
   retrying (5 left)...
+  retrying (4 left)...
+  stale data (2020-07-09 21:00:00)
+updating Stevens Pass - Tye Mill
+  stale data (2020-07-09 21:00:00)
+updating Leavenworth - Tumwater Mountain
   stale data (2020-03-22 06:00:00)
 updating Snoqualmie Pass - Mt Washington
   retrying (5 left)...
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Snoqualmie Pass - Snoqualmie Pass
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Snoqualmie Pass - Dodge Ridge
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Snoqualmie Pass - East Shed
-  stale data (2020-07-09 17:00:00)
-updating Mission Ridge - Base
-  stale data (2020-07-09 17:00:00)
-updating Mission Ridge - Summit
-  stale data (2020-07-09 17:00:00)
-updating Mission Ridge - Mid-Mountain
   retrying (5 left)...
-  retrying (4 left)...
+  stale data (2020-07-09 21:00:00)
+updating Mission Ridge - Base
+  retrying (5 left)...
+  stale data (2020-07-09 21:00:00)
+updating Mission Ridge - Summit
+  retrying (5 left)...
+  stale data (2020-07-09 21:00:00)
+updating Mission Ridge - Mid-Mountain
   stale data (2020-05-12 08:00:00)
 updating Crystal - Green Valley
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Crystal - Base
-  retrying (5 left)...
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Crystal - Summit
-  stale data (2020-07-09 17:00:00)
+  retrying (5 left)...
+  retrying (4 left)...
+  stale data (2020-07-09 21:00:00)
 updating Sunrise - Upper
   stale data (2020-02-21 22:00:00)
 updating Sunrise - Base
-  retrying (5 left)...
   stale data (2020-06-03 12:00:00)
 updating Chinook Pass - Summit
   stale data (2020-06-03 12:00:00)
 updating Chinook Pass - Base
   stale data (2020-06-03 12:00:00)
 updating Mount Rainier - Camp Muir
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Mount Rainier - Paradise
-  stale data (2020-07-09 17:00:00)
-updating Mount Rainier - Paradise Wind
   retrying (5 left)...
   retrying (4 left)...
+  stale data (2020-07-09 21:00:00)
+updating Mount Rainier - Paradise Wind
   stale data (2020-06-10 08:00:00)
 updating White Pass - Base
+  retrying (5 left)...
   missing data
 updating White Pass - Upper
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Mount Saint Helens - Coldwater
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Mount Hood Meadows - Cascade Express
+  retrying (5 left)...
   stale data (2020-04-11 08:00:00)
 updating Mount Hood Meadows - Blue
   stale data (2020-06-12 01:00:00)
 updating Mount Hood Meadows - Base
+  stale data (2020-07-09 21:00:00)
+updating Timberline - Lodge
   retrying (5 left)...
   retrying (4 left)...
-  stale data (2020-07-09 17:00:00)
-updating Timberline - Lodge
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Timberline - Magic Mile
+  retrying (5 left)...
+  retrying (4 left)...
   stale data (2020-07-08 12:00:00)
 updating Ski Bowl - Base
-  retrying (5 left)...
   stale data (2020-06-01 13:00:00)
 updating Ski Bowl - Summit
   stale data (2020-03-27 15:00:00)
 updating Blewett Pass - Blewett Pass
-  stale data (2020-07-09 17:00:00)
+  retrying (5 left)...
+  retrying (4 left)...
+  stale data (2020-07-09 21:00:00)
 updating White Pass - Pigtail Peak
-  retrying (5 left)...
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Stevens Pass - Brooks
-  retrying (5 left)...
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Crystal - Shop
-  stale data (2020-07-09 17:00:00)
+  retrying (5 left)...
+  stale data (2020-07-09 21:00:00)
 updating Leavenworth - Leavenworth
-  stale data (2020-07-09 17:00:00)
+  stale data (2020-07-09 21:00:00)
 updating Crystal - Campbell Basin
   stale data (2020-03-18 19:00:00)
 processing Alpental - Base
@@ -171,4 +175,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2020-07-09 18:25:37.804860
+*** end 2020-07-09 22:28:35.231287
