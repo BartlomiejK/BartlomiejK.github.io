@@ -1,1077 +1,210 @@
-*** begin 2021-01-05 18:52:33.282075
+*** begin 2021-01-05 18:56:05.544643
 updating Stevens Pass - Brooks Wind
   missing data
 updating Crystal - Shop
   missing data
 processing Alpental - Base
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Alpental - Mid-Mountain
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Alpental - Summit
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Olympics - Hurricane Ridge
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mount Baker - Heather Meadows
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mount Baker - Pan Dome
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mazama - Mazama
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Washington Pass - Base
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Washington Pass - Upper
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Lake Wenatchee - Dirty Face Summit
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Lake Wenatchee - Lake Wenatchee
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Berne Snow Camp
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Schmidt Haus
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Grace Lakes
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Brooks Wind
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Skyline
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Tye Mill
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Leavenworth - Tumwater Mountain
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Snoqualmie Pass - Mt Washington
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Snoqualmie Pass - Snoqualmie Pass
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Snoqualmie Pass - Dodge Ridge
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Snoqualmie Pass - East Shed
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mission Ridge - Base
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mission Ridge - Summit
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mission Ridge - Mid-Mountain
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Crystal - Green Valley
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Crystal - Base
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Crystal - Summit
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Sunrise - Upper
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Sunrise - Base
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Chinook Pass - Summit
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Chinook Pass - Base
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mount Rainier - Camp Muir
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mount Rainier - Paradise
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mount Rainier - Paradise Wind
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing White Pass - Base
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing White Pass - Upper
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mount Saint Helens - Coldwater
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mount Hood Meadows - Cascade Express
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mount Hood Meadows - Blue
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mount Hood Meadows - Base
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Timberline - Lodge
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Timberline - Magic Mile
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Ski Bowl - Base
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Ski Bowl - Summit
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Blewett Pass - Blewett Pass
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing White Pass - Pigtail Peak
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Brooks
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Crystal - Shop
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Leavenworth - Leavenworth
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Crystal - Campbell Basin
-Temperature  (deg F)  is not transformed.
-Relative Humidity  (%)  is not transformed.
-Precipitation  (")  is not transformed.
-Total Snow Depth  (")  is not transformed.
-Wind Direction  (deg.)  is not transformed.
-Wind Speed Average  (mph)  is not transformed.
-Wind Speed Minimum  (mph)  is not transformed.
-Wind Speed Maximum  (mph)  is not transformed.
-Barometric Pressure  (mb)  is not transformed.
-Equipment Temperature  (deg F)  is not transformed.
-Solar Radiation  (W/m2)  is not transformed.
-24 Hour Snow  (")  is not transformed.
-Intermittent/Shot Snow  (")  is not transformed.
-Net Solar  (mJ/m2)  is not transformed.
-Soil Moisture A  (VWC)  is not transformed.
-Soil Moisture B  (VWC)  is not transformed.
-Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
-*** end 2021-01-05 18:52:42.683466
+*** end 2021-01-05 18:57:43.973373
