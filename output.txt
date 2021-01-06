@@ -1,4 +1,4 @@
-*** begin 2021-01-05 18:30:02.963463
+*** begin 2021-01-05 18:43:07.080811
 updating Stevens Pass - Brooks Wind
   missing data
 updating Crystal - Shop
@@ -1125,4 +1125,4 @@ Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
-*** end 2021-01-05 18:30:22.913534
+*** end 2021-01-05 18:43:18.712044
