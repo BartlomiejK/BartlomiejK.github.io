@@ -1,10 +1,9 @@
-*** begin 2021-01-05 18:43:07.080811
+*** begin 2021-01-05 18:52:33.282075
 updating Stevens Pass - Brooks Wind
   missing data
 updating Crystal - Shop
   missing data
 processing Alpental - Base
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -26,7 +25,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Alpental - Mid-Mountain
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -48,7 +46,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Alpental - Summit
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -70,7 +67,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Olympics - Hurricane Ridge
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -92,7 +88,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mount Baker - Heather Meadows
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -114,7 +109,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mount Baker - Pan Dome
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -136,7 +130,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mazama - Mazama
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -158,7 +151,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Washington Pass - Base
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -180,7 +172,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Washington Pass - Upper
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -202,7 +193,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Lake Wenatchee - Dirty Face Summit
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -224,7 +214,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Lake Wenatchee - Lake Wenatchee
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -246,7 +235,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Berne Snow Camp
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -268,7 +256,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Schmidt Haus
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -290,7 +277,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Grace Lakes
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -312,7 +298,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Brooks Wind
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -334,7 +319,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Skyline
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -356,7 +340,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Tye Mill
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -378,7 +361,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Leavenworth - Tumwater Mountain
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -400,7 +382,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Snoqualmie Pass - Mt Washington
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -422,7 +403,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Snoqualmie Pass - Snoqualmie Pass
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -444,7 +424,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Snoqualmie Pass - Dodge Ridge
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -466,7 +445,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Snoqualmie Pass - East Shed
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -488,7 +466,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mission Ridge - Base
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -510,7 +487,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mission Ridge - Summit
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -532,7 +508,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mission Ridge - Mid-Mountain
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -554,7 +529,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Crystal - Green Valley
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -576,7 +550,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Crystal - Base
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -598,7 +571,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Crystal - Summit
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -620,7 +592,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Sunrise - Upper
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -642,7 +613,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Sunrise - Base
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -664,7 +634,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Chinook Pass - Summit
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -686,7 +655,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Chinook Pass - Base
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -708,7 +676,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mount Rainier - Camp Muir
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -730,7 +697,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mount Rainier - Paradise
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -752,7 +718,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mount Rainier - Paradise Wind
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -774,7 +739,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing White Pass - Base
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -796,7 +760,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing White Pass - Upper
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -818,7 +781,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mount Saint Helens - Coldwater
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -840,7 +802,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mount Hood Meadows - Cascade Express
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -862,7 +823,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mount Hood Meadows - Blue
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -884,7 +844,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Mount Hood Meadows - Base
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -906,7 +865,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Timberline - Lodge
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -928,7 +886,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Timberline - Magic Mile
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -950,7 +907,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Ski Bowl - Base
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -972,7 +928,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Ski Bowl - Summit
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -994,7 +949,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Blewett Pass - Blewett Pass
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -1016,7 +970,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing White Pass - Pigtail Peak
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -1038,7 +991,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Brooks
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -1060,7 +1012,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Crystal - Shop
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -1082,7 +1033,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Leavenworth - Leavenworth
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -1104,7 +1054,6 @@ Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
 processing Crystal - Campbell Basin
-Battery Voltage  (v)  is not transformed.
 Temperature  (deg F)  is not transformed.
 Relative Humidity  (%)  is not transformed.
 Precipitation  (")  is not transformed.
@@ -1125,4 +1074,4 @@ Soil Moisture C  (VWC)  is not transformed.
 Soil Temperature A  (deg F)  is not transformed.
 Soil Temperature B  (deg F)  is not transformed.
 Soil Temperature C  (deg F)  is not transformed.
-*** end 2021-01-05 18:43:18.712044
+*** end 2021-01-05 18:52:42.683466
