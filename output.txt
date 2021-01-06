@@ -1,55 +1,43 @@
-*** begin 2021-01-05 19:03:07.694610
+*** begin 2021-01-05 22:10:12.407369
 updating Alpental - Base
 updating Alpental - Mid-Mountain
 updating Alpental - Summit
 updating Olympics - Hurricane Ridge
-  stale data (2021-01-05 18:00:00)
 updating Mount Baker - Heather Meadows
 updating Mount Baker - Pan Dome
 updating Mazama - Mazama
-  stale data (2021-01-05 18:00:00)
+  stale data (2021-01-05 21:00:00)
 updating Washington Pass - Base
 updating Washington Pass - Upper
 updating Lake Wenatchee - Dirty Face Summit
-  stale data (2021-01-05 18:00:00)
+  stale data (2021-01-05 20:00:00)
 updating Lake Wenatchee - Lake Wenatchee
-  stale data (2021-01-05 18:00:00)
+  stale data (2021-01-05 21:00:00)
 updating Stevens Pass - Berne Snow Camp
-  stale data (2021-01-05 18:00:00)
+  stale data (2021-01-05 21:00:00)
 updating Stevens Pass - Schmidt Haus
-  stale data (2021-01-05 18:00:00)
 updating Stevens Pass - Grace Lakes
-  stale data (2021-01-05 18:00:00)
 updating Stevens Pass - Brooks Wind
   missing data
 updating Stevens Pass - Skyline
-  stale data (2021-01-05 18:00:00)
 updating Stevens Pass - Tye Mill
-  stale data (2021-01-05 18:00:00)
 updating Leavenworth - Tumwater Mountain
 updating Snoqualmie Pass - Mt Washington
-  stale data (2021-01-05 18:00:00)
 updating Snoqualmie Pass - Snoqualmie Pass
-  stale data (2021-01-05 18:00:00)
 updating Snoqualmie Pass - Dodge Ridge
-  stale data (2021-01-05 18:00:00)
 updating Snoqualmie Pass - East Shed
-  stale data (2021-01-05 18:00:00)
 updating Mission Ridge - Base
 updating Mission Ridge - Summit
 updating Mission Ridge - Mid-Mountain
 updating Crystal - Green Valley
 updating Crystal - Base
 updating Crystal - Summit
-  stale data (2021-01-05 18:00:00)
 updating Sunrise - Upper
 updating Sunrise - Base
-  stale data (2021-01-05 18:00:00)
 updating Chinook Pass - Summit
-  stale data (2021-01-05 18:00:00)
 updating Chinook Pass - Base
 updating Mount Rainier - Camp Muir
-  stale data (2021-01-05 18:00:00)
+  stale data (2021-01-05 21:00:00)
 updating Mount Rainier - Paradise
 updating Mount Rainier - Paradise Wind
 updating White Pass - Base
@@ -66,7 +54,6 @@ updating Ski Bowl - Base
   missing data
 updating Ski Bowl - Summit
 updating Blewett Pass - Blewett Pass
-  stale data (2021-01-05 18:00:00)
 updating White Pass - Pigtail Peak
 updating Stevens Pass - Brooks
 updating Crystal - Shop
@@ -124,4 +111,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2021-01-05 19:03:38.063110
+*** end 2021-01-05 22:10:45.176838
