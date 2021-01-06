@@ -1,210 +1,127 @@
-*** begin 2021-01-05 18:56:05.544643
+*** begin 2021-01-05 19:03:07.694610
+updating Alpental - Base
+updating Alpental - Mid-Mountain
+updating Alpental - Summit
+updating Olympics - Hurricane Ridge
+  stale data (2021-01-05 18:00:00)
+updating Mount Baker - Heather Meadows
+updating Mount Baker - Pan Dome
+updating Mazama - Mazama
+  stale data (2021-01-05 18:00:00)
+updating Washington Pass - Base
+updating Washington Pass - Upper
+updating Lake Wenatchee - Dirty Face Summit
+  stale data (2021-01-05 18:00:00)
+updating Lake Wenatchee - Lake Wenatchee
+  stale data (2021-01-05 18:00:00)
+updating Stevens Pass - Berne Snow Camp
+  stale data (2021-01-05 18:00:00)
+updating Stevens Pass - Schmidt Haus
+  stale data (2021-01-05 18:00:00)
+updating Stevens Pass - Grace Lakes
+  stale data (2021-01-05 18:00:00)
 updating Stevens Pass - Brooks Wind
   missing data
+updating Stevens Pass - Skyline
+  stale data (2021-01-05 18:00:00)
+updating Stevens Pass - Tye Mill
+  stale data (2021-01-05 18:00:00)
+updating Leavenworth - Tumwater Mountain
+updating Snoqualmie Pass - Mt Washington
+  stale data (2021-01-05 18:00:00)
+updating Snoqualmie Pass - Snoqualmie Pass
+  stale data (2021-01-05 18:00:00)
+updating Snoqualmie Pass - Dodge Ridge
+  stale data (2021-01-05 18:00:00)
+updating Snoqualmie Pass - East Shed
+  stale data (2021-01-05 18:00:00)
+updating Mission Ridge - Base
+updating Mission Ridge - Summit
+updating Mission Ridge - Mid-Mountain
+updating Crystal - Green Valley
+updating Crystal - Base
+updating Crystal - Summit
+  stale data (2021-01-05 18:00:00)
+updating Sunrise - Upper
+updating Sunrise - Base
+  stale data (2021-01-05 18:00:00)
+updating Chinook Pass - Summit
+  stale data (2021-01-05 18:00:00)
+updating Chinook Pass - Base
+updating Mount Rainier - Camp Muir
+  stale data (2021-01-05 18:00:00)
+updating Mount Rainier - Paradise
+updating Mount Rainier - Paradise Wind
+updating White Pass - Base
+updating White Pass - Upper
+updating Mount Saint Helens - Coldwater
+  missing data
+updating Mount Hood Meadows - Cascade Express
+updating Mount Hood Meadows - Blue
+updating Mount Hood Meadows - Base
+updating Timberline - Lodge
+updating Timberline - Magic Mile
+  missing data
+updating Ski Bowl - Base
+  missing data
+updating Ski Bowl - Summit
+updating Blewett Pass - Blewett Pass
+  stale data (2021-01-05 18:00:00)
+updating White Pass - Pigtail Peak
+updating Stevens Pass - Brooks
 updating Crystal - Shop
   missing data
+updating Leavenworth - Leavenworth
+updating Crystal - Campbell Basin
 processing Alpental - Base
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Alpental - Mid-Mountain
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Alpental - Summit
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Olympics - Hurricane Ridge
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Mount Baker - Heather Meadows
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Mount Baker - Pan Dome
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Mazama - Mazama
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Washington Pass - Base
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Washington Pass - Upper
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Lake Wenatchee - Dirty Face Summit
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Lake Wenatchee - Lake Wenatchee
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Berne Snow Camp
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Schmidt Haus
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Grace Lakes
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Brooks Wind
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Skyline
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Tye Mill
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Leavenworth - Tumwater Mountain
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Snoqualmie Pass - Mt Washington
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Snoqualmie Pass - Snoqualmie Pass
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Snoqualmie Pass - Dodge Ridge
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Snoqualmie Pass - East Shed
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Mission Ridge - Base
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Mission Ridge - Summit
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Mission Ridge - Mid-Mountain
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Crystal - Green Valley
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Crystal - Base
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Crystal - Summit
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Sunrise - Upper
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Sunrise - Base
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Chinook Pass - Summit
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Chinook Pass - Base
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Mount Rainier - Camp Muir
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Mount Rainier - Paradise
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Mount Rainier - Paradise Wind
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing White Pass - Base
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing White Pass - Upper
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Mount Saint Helens - Coldwater
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Mount Hood Meadows - Cascade Express
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Mount Hood Meadows - Blue
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Mount Hood Meadows - Base
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Timberline - Lodge
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Timberline - Magic Mile
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Ski Bowl - Base
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Ski Bowl - Summit
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Blewett Pass - Blewett Pass
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing White Pass - Pigtail Peak
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Stevens Pass - Brooks
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Crystal - Shop
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Leavenworth - Leavenworth
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
 processing Crystal - Campbell Basin
-Soil Temperature A  (deg F)  is not transformed.
-Soil Temperature B  (deg F)  is not transformed.
-Soil Temperature C  (deg F)  is not transformed.
-*** end 2021-01-05 18:57:43.973373
+*** end 2021-01-05 19:03:38.063110
