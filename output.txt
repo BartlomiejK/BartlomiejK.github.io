@@ -1,4 +1,4 @@
-*** begin 2021-03-25 14:10:01.304531
+*** begin 2021-03-25 18:10:09.884077
 updating Alpental - Base
 updating Alpental - Mid-Mountain
 updating Alpental - Summit
@@ -34,7 +34,7 @@ updating Sunrise - Base
 updating Chinook Pass - Summit
 updating Chinook Pass - Base
 updating Mount Rainier - Camp Muir
-  stale data (2021-03-25 13:00:00)
+  stale data (2021-03-25 17:00:00)
 updating Mount Rainier - Paradise
 updating Mount Rainier - Paradise Wind
 updating White Pass - Base
@@ -107,4 +107,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2021-03-25 14:10:44.602136
+*** end 2021-03-25 18:10:52.436852
