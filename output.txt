@@ -1,6 +1,5 @@
-*** begin 2021-04-02 12:56:27.901055
+*** begin 2021-04-02 14:10:06.614207
 updating Alpental - Base
-  retrying (5 left)...
 updating Alpental - Mid-Mountain
 updating Alpental - Summit
 updating Olympics - Hurricane Ridge
@@ -37,6 +36,7 @@ updating Crystal - Summit
 updating Sunrise - Upper
 updating Sunrise - Base
 updating Chinook Pass - Summit
+  stale data (2021-04-02 13:00:00)
 updating Chinook Pass - Base
 updating Mount Rainier - Camp Muir
   stale data (2021-04-02 09:00:00)
@@ -115,4 +115,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2021-04-02 12:57:52.896007
+*** end 2021-04-02 14:10:48.105804
