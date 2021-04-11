@@ -1,26 +1,24 @@
-*** begin 2021-04-11 06:10:05.144182
+*** begin 2021-04-11 10:10:04.240820
 updating Alpental - Base
 updating Alpental - Mid-Mountain
 updating Alpental - Summit
 updating Olympics - Hurricane Ridge
-  stale data (2021-04-11 05:00:00)
 updating Mount Baker - Heather Meadows
 updating Mount Baker - Pan Dome
 updating Mazama - Mazama
-  stale data (2021-04-11 04:00:00)
+  stale data (2021-04-11 09:00:00)
 updating Washington Pass - Base
-  stale data (2021-04-10 13:00:00)
 updating Washington Pass - Upper
-  stale data (2021-04-10 13:00:00)
 updating Lake Wenatchee - Dirty Face Summit
+  stale data (2021-04-11 09:00:00)
 updating Lake Wenatchee - Lake Wenatchee
+  stale data (2021-04-11 09:00:00)
 updating Stevens Pass - Berne Snow Camp
 updating Stevens Pass - Schmidt Haus
 updating Stevens Pass - Grace Lakes
 updating Stevens Pass - Brooks Wind
   missing data
 updating Stevens Pass - Skyline
-  stale data (2021-04-11 05:00:00)
 updating Stevens Pass - Tye Mill
 updating Leavenworth - Tumwater Mountain
 updating Snoqualmie Pass - Mt Washington
@@ -38,7 +36,7 @@ updating Sunrise - Base
 updating Chinook Pass - Summit
 updating Chinook Pass - Base
 updating Mount Rainier - Camp Muir
-  stale data (2021-04-11 05:00:00)
+  stale data (2021-04-11 09:00:00)
 updating Mount Rainier - Paradise
 updating Mount Rainier - Paradise Wind
 updating White Pass - Base
@@ -110,4 +108,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2021-04-11 06:10:47.667931
+*** end 2021-04-11 10:10:47.197376
