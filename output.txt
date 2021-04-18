@@ -1,4 +1,4 @@
-*** begin 2021-04-17 22:10:03.837629
+*** begin 2021-04-18 06:10:04.016049
 updating Alpental - Base
 updating Alpental - Mid-Mountain
 updating Alpental - Summit
@@ -36,7 +36,7 @@ updating Crystal - Summit
 updating Sunrise - Upper
 updating Sunrise - Base
 updating Chinook Pass - Summit
-  stale data (2021-04-17 21:00:00)
+  stale data (2021-04-18 05:00:00)
 updating Chinook Pass - Base
 updating Mount Rainier - Camp Muir
   stale data (2021-04-17 09:00:00)
@@ -59,7 +59,6 @@ updating Ski Bowl - Summit
 updating Blewett Pass - Blewett Pass
   stale data (2021-04-17 09:00:00)
 updating White Pass - Pigtail Peak
-  stale data (2021-04-17 21:00:00)
 updating Stevens Pass - Brooks
 updating Crystal - Shop
   missing data
@@ -116,4 +115,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2021-04-17 22:10:47.689698
+*** end 2021-04-18 06:10:46.789412
