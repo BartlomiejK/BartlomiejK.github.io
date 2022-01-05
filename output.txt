@@ -1,5 +1,7 @@
-*** begin 2022-01-04 16:57:50.806859
+*** begin 2022-01-04 17:04:15.545969
 updating Stevens Pass - Brooks Wind
+  missing data
+updating Snoqualmie Pass - Mt Washington
   missing data
 updating Crystal - Shop
   missing data
@@ -54,4 +56,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2022-01-04 16:59:18.173356
+*** end 2022-01-04 17:04:25.031427
