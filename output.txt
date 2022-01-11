@@ -1,4 +1,4 @@
-*** begin 2022-01-10 18:10:11.554639
+*** begin 2022-01-10 22:10:07.322893
 updating Alpental - Base
 updating Alpental - Mid-Mountain
   stale data (2022-01-06 02:00:00)
@@ -7,7 +7,7 @@ updating Olympics - Hurricane Ridge
 updating Mount Baker - Heather Meadows
 updating Mount Baker - Pan Dome
 updating Mazama - Mazama
-  stale data (2022-01-10 17:00:00)
+  stale data (2022-01-10 21:00:00)
 updating Washington Pass - Base
 updating Washington Pass - Upper
 updating Lake Wenatchee - Dirty Face Summit
@@ -34,9 +34,7 @@ updating Mission Ridge - Mid-Mountain
 updating Crystal - Green Valley
   stale data (2022-01-06 06:00:00)
 updating Crystal - Base
-  stale data (2022-01-06 06:00:00)
 updating Crystal - Summit
-  stale data (2022-01-06 06:00:00)
 updating Sunrise - Upper
   stale data (2022-01-06 06:00:00)
 updating Sunrise - Base
@@ -44,7 +42,6 @@ updating Sunrise - Base
 updating Chinook Pass - Summit
   stale data (2022-01-06 06:00:00)
 updating Chinook Pass - Base
-  stale data (2022-01-06 06:00:00)
 updating Mount Rainier - Camp Muir
   stale data (2022-01-07 03:00:00)
 updating Mount Rainier - Paradise
@@ -52,7 +49,7 @@ updating Mount Rainier - Paradise Wind
 updating White Pass - Base
 updating White Pass - Upper
 updating Mount Saint Helens - Coldwater
-  stale data (2022-01-10 17:00:00)
+  stale data (2022-01-10 21:00:00)
 updating Mount Hood Meadows - Cascade Express
 updating Mount Hood Meadows - Blue
 updating Mount Hood Meadows - Base
@@ -63,11 +60,11 @@ updating Ski Bowl - Summit
 updating Blewett Pass - Blewett Pass
 updating White Pass - Pigtail Peak
 updating Stevens Pass - Brooks
+  stale data (2022-01-10 20:00:00)
 updating Crystal - Shop
   missing data
 updating Leavenworth - Leavenworth
 updating Crystal - Campbell Basin
-  stale data (2022-01-06 06:00:00)
 processing Alpental - Base
 processing Alpental - Mid-Mountain
 processing Alpental - Summit
@@ -119,4 +116,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2022-01-10 18:10:42.101865
+*** end 2022-01-10 22:10:34.512698
