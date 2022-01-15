@@ -1,5 +1,7 @@
-*** begin 2022-01-14 14:13:30.019725
+*** begin 2022-01-14 18:11:44.205475
 updating Alpental - Base
+  retrying (5 left)...
+  retrying (4 left)...
 updating Alpental - Mid-Mountain
 updating Alpental - Summit
 updating Olympics - Hurricane Ridge
@@ -26,6 +28,7 @@ updating Snoqualmie Pass - Dodge Ridge
 updating Snoqualmie Pass - East Shed
 updating Mission Ridge - Base
 updating Mission Ridge - Summit
+  stale data (2022-01-14 14:00:00)
 updating Mission Ridge - Mid-Mountain
 updating Crystal - Green Valley
 updating Crystal - Base
@@ -106,4 +109,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2022-01-14 14:13:55.535227
+*** end 2022-01-14 20:44:52.812248
