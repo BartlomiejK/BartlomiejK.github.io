@@ -1,18 +1,20 @@
-*** begin 2022-01-17 14:10:05.477751
+*** begin 2022-01-17 18:10:10.034632
 updating Alpental - Base
 updating Alpental - Mid-Mountain
   stale data (2022-01-16 13:00:00)
 updating Alpental - Summit
 updating Olympics - Hurricane Ridge
+  stale data (2022-01-17 17:00:00)
 updating Mount Baker - Heather Meadows
 updating Mount Baker - Pan Dome
 updating Mazama - Mazama
-  stale data (2022-01-17 13:00:00)
+  stale data (2022-01-17 17:00:00)
 updating Washington Pass - Base
 updating Washington Pass - Upper
 updating Lake Wenatchee - Dirty Face Summit
+  stale data (2022-01-17 17:00:00)
 updating Lake Wenatchee - Lake Wenatchee
-  stale data (2022-01-17 13:00:00)
+  stale data (2022-01-17 17:00:00)
 updating Stevens Pass - Berne Snow Camp
 updating Stevens Pass - Schmidt Haus
   stale data (2022-01-12 00:00:00)
@@ -25,13 +27,11 @@ updating Leavenworth - Tumwater Mountain
 updating Snoqualmie Pass - Mt Washington
   stale data (2022-01-16 10:00:00)
 updating Snoqualmie Pass - Snoqualmie Pass
-  stale data (2022-01-16 13:00:00)
 updating Snoqualmie Pass - Dodge Ridge
-  stale data (2022-01-16 13:00:00)
 updating Snoqualmie Pass - East Shed
-  stale data (2022-01-16 13:00:00)
 updating Mission Ridge - Base
 updating Mission Ridge - Summit
+  stale data (2022-01-17 14:00:00)
 updating Mission Ridge - Mid-Mountain
 updating Crystal - Green Valley
 updating Crystal - Base
@@ -46,12 +46,13 @@ updating Mount Rainier - Paradise Wind
 updating White Pass - Base
 updating White Pass - Upper
 updating Mount Saint Helens - Coldwater
-  stale data (2022-01-17 13:00:00)
+  stale data (2022-01-17 17:00:00)
 updating Mount Hood Meadows - Cascade Express
 updating Mount Hood Meadows - Blue
 updating Mount Hood Meadows - Base
 updating Timberline - Lodge
 updating Timberline - Magic Mile
+  stale data (2022-01-17 17:00:00)
 updating Ski Bowl - Base
 updating Ski Bowl - Summit
 updating Blewett Pass - Blewett Pass
@@ -113,4 +114,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2022-01-17 14:10:32.473028
+*** end 2022-01-17 18:10:36.127326
