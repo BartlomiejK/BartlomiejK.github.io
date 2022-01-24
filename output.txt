@@ -1,4 +1,4 @@
-*** begin 2022-01-23 17:51:55.226930
+*** begin 2022-01-23 17:53:28.964698
 updating Stevens Pass - Brooks Wind
   missing data
 updating Crystal - Shop
@@ -54,4 +54,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2022-01-23 17:52:19.004612
+*** end 2022-01-23 17:53:51.445439
