@@ -1,2 +1,112 @@
-*** begin 2022-01-29 14:10:07.059115
+*** begin 2022-01-29 18:10:08.506927
 updating Alpental - Base
+updating Alpental - Mid-Mountain
+updating Alpental - Summit
+updating Olympics - Hurricane Ridge
+updating Mount Baker - Heather Meadows
+updating Mount Baker - Pan Dome
+updating Mazama - Mazama
+  stale data (2022-01-29 17:00:00)
+updating Washington Pass - Base
+updating Washington Pass - Upper
+updating Lake Wenatchee - Dirty Face Summit
+updating Lake Wenatchee - Lake Wenatchee
+  stale data (2022-01-29 17:00:00)
+updating Stevens Pass - Berne Snow Camp
+updating Stevens Pass - Schmidt Haus
+updating Stevens Pass - Grace Lakes
+updating Stevens Pass - Brooks Wind
+  missing data
+updating Stevens Pass - Skyline
+updating Stevens Pass - Tye Mill
+updating Leavenworth - Tumwater Mountain
+updating Snoqualmie Pass - Mt Washington
+  stale data (2022-01-29 10:00:00)
+updating Snoqualmie Pass - Snoqualmie Pass
+updating Snoqualmie Pass - Dodge Ridge
+updating Snoqualmie Pass - East Shed
+updating Mission Ridge - Base
+  stale data (2022-01-29 13:00:00)
+updating Mission Ridge - Summit
+updating Mission Ridge - Mid-Mountain
+updating Crystal - Green Valley
+updating Crystal - Base
+updating Crystal - Summit
+updating Sunrise - Upper
+updating Sunrise - Base
+updating Chinook Pass - Summit
+updating Chinook Pass - Base
+updating Mount Rainier - Camp Muir
+updating Mount Rainier - Paradise
+  stale data (2022-01-29 17:00:00)
+updating Mount Rainier - Paradise Wind
+updating White Pass - Base
+updating White Pass - Upper
+updating Mount Saint Helens - Coldwater
+  stale data (2022-01-29 17:00:00)
+updating Mount Hood Meadows - Cascade Express
+updating Mount Hood Meadows - Blue
+updating Mount Hood Meadows - Base
+updating Timberline - Lodge
+updating Timberline - Magic Mile
+updating Ski Bowl - Base
+updating Ski Bowl - Summit
+updating Blewett Pass - Blewett Pass
+updating White Pass - Pigtail Peak
+updating Stevens Pass - Brooks
+updating Crystal - Shop
+  missing data
+updating Leavenworth - Leavenworth
+updating Crystal - Campbell Basin
+processing Alpental - Base
+processing Alpental - Mid-Mountain
+processing Alpental - Summit
+processing Olympics - Hurricane Ridge
+processing Mount Baker - Heather Meadows
+processing Mount Baker - Pan Dome
+processing Mazama - Mazama
+processing Washington Pass - Base
+processing Washington Pass - Upper
+processing Lake Wenatchee - Dirty Face Summit
+processing Lake Wenatchee - Lake Wenatchee
+processing Stevens Pass - Berne Snow Camp
+processing Stevens Pass - Schmidt Haus
+processing Stevens Pass - Grace Lakes
+processing Stevens Pass - Brooks Wind
+processing Stevens Pass - Skyline
+processing Stevens Pass - Tye Mill
+processing Leavenworth - Tumwater Mountain
+processing Snoqualmie Pass - Mt Washington
+processing Snoqualmie Pass - Snoqualmie Pass
+processing Snoqualmie Pass - Dodge Ridge
+processing Snoqualmie Pass - East Shed
+processing Mission Ridge - Base
+processing Mission Ridge - Summit
+processing Mission Ridge - Mid-Mountain
+processing Crystal - Green Valley
+processing Crystal - Base
+processing Crystal - Summit
+processing Sunrise - Upper
+processing Sunrise - Base
+processing Chinook Pass - Summit
+processing Chinook Pass - Base
+processing Mount Rainier - Camp Muir
+processing Mount Rainier - Paradise
+processing Mount Rainier - Paradise Wind
+processing White Pass - Base
+processing White Pass - Upper
+processing Mount Saint Helens - Coldwater
+processing Mount Hood Meadows - Cascade Express
+processing Mount Hood Meadows - Blue
+processing Mount Hood Meadows - Base
+processing Timberline - Lodge
+processing Timberline - Magic Mile
+processing Ski Bowl - Base
+processing Ski Bowl - Summit
+processing Blewett Pass - Blewett Pass
+processing White Pass - Pigtail Peak
+processing Stevens Pass - Brooks
+processing Crystal - Shop
+processing Leavenworth - Leavenworth
+processing Crystal - Campbell Basin
+*** end 2022-01-29 18:10:32.309108
