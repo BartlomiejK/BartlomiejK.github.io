@@ -1,16 +1,6 @@
-*** begin 2022-02-02 20:07:55.496987
+*** begin 2022-02-02 20:14:49.325608
 updating Alpental - Base
-  retrying (5 left)...
-  retrying (4 left)...
-  retrying (3 left)...
-  retrying (2 left)...
-  retrying (1 left)...
-  *** UPDATE FAILED ***
 updating Alpental - Mid-Mountain
-  retrying (5 left)...
-  retrying (4 left)...
-  retrying (3 left)...
-  retrying (2 left)...
 updating Alpental - Summit
 updating Olympics - Hurricane Ridge
 updating Mount Baker - Heather Meadows
@@ -110,6 +100,13 @@ processing Timberline - Magic Mile
 processing Ski Bowl - Base
 processing Ski Bowl - Summit
 processing Blewett Pass - Blewett Pass
+processing White Pass - Pigtail Peak
+processing Stevens Pass - Brooks
+processing Crystal - Shop
+processing Leavenworth - Leavenworth
+processing Crystal - Campbell Basin
+*** end 2022-02-02 20:15:39.220673
+lewett Pass - Blewett Pass
 processing White Pass - Pigtail Peak
 processing Stevens Pass - Brooks
 processing Crystal - Shop
