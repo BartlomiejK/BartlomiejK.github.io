@@ -1,4 +1,4 @@
-*** begin 2022-03-21 06:57:52.926210
+*** begin 2022-03-21 10:59:41.900586
 updating Alpental - Base
 updating Alpental - Mid-Mountain
 updating Alpental - Summit
@@ -19,6 +19,7 @@ updating Stevens Pass - Skyline
 updating Stevens Pass - Tye Mill
 updating Leavenworth - Tumwater Mountain
 updating Snoqualmie Pass - Mt Washington
+  stale data (2022-03-21 08:00:00)
 updating Snoqualmie Pass - Snoqualmie Pass
 updating Snoqualmie Pass - Dodge Ridge
 updating Snoqualmie Pass - East Shed
@@ -30,12 +31,13 @@ updating Mission Ridge - Mid-Mountain
 updating Crystal - Green Valley
 updating Crystal - Base
 updating Crystal - Summit
-  stale data (2022-03-21 05:00:00)
+  stale data (2022-03-21 09:00:00)
 updating Sunrise - Upper
 updating Sunrise - Base
 updating Chinook Pass - Summit
 updating Chinook Pass - Base
 updating Mount Rainier - Camp Muir
+  stale data (2022-03-21 07:00:00)
 updating Mount Rainier - Paradise
 updating Mount Rainier - Paradise Wind
 updating White Pass - Base
@@ -55,7 +57,6 @@ updating Stevens Pass - Brooks
 updating Crystal - Shop
   missing data
 updating Leavenworth - Leavenworth
-  stale data (2022-03-21 05:00:00)
 updating Crystal - Campbell Basin
 processing Alpental - Base
 processing Alpental - Mid-Mountain
@@ -108,4 +109,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2022-03-21 08:59:02.887735
+*** end 2022-03-21 13:00:51.173402
