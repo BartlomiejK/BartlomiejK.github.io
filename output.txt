@@ -1,5 +1,6 @@
-*** begin 2022-03-22 07:44:47.002295
+*** begin 2022-03-22 11:36:27.136182
 updating Alpental - Base
+  retrying (5 left)...
 updating Alpental - Mid-Mountain
 updating Alpental - Summit
 updating Olympics - Hurricane Ridge
@@ -31,7 +32,6 @@ updating Mission Ridge - Mid-Mountain
 updating Crystal - Green Valley
 updating Crystal - Base
 updating Crystal - Summit
-  stale data (2022-03-22 06:00:00)
 updating Sunrise - Upper
 updating Sunrise - Base
 updating Chinook Pass - Summit
@@ -48,7 +48,6 @@ updating Mount Hood Meadows - Blue
 updating Mount Hood Meadows - Base
 updating Timberline - Lodge
 updating Timberline - Magic Mile
-  stale data (2022-03-22 06:00:00)
 updating Ski Bowl - Base
 updating Ski Bowl - Summit
   stale data (2022-03-17 09:00:00)
@@ -110,4 +109,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2022-03-22 09:45:50.070602
+*** end 2022-03-22 14:30:56.190310
