@@ -1,4 +1,4 @@
-*** begin 2022-03-25 14:23:42.480481
+*** begin 2022-03-25 18:25:32.203506
 updating Alpental - Base
 updating Alpental - Mid-Mountain
 updating Alpental - Summit
@@ -28,17 +28,13 @@ updating Mission Ridge - Summit
   stale data (2022-03-18 10:00:00)
 updating Mission Ridge - Mid-Mountain
 updating Crystal - Green Valley
-  stale data (2022-03-25 08:00:00)
 updating Crystal - Base
 updating Crystal - Summit
 updating Sunrise - Upper
   stale data (2022-03-25 08:00:00)
 updating Sunrise - Base
-  stale data (2022-03-25 08:00:00)
 updating Chinook Pass - Summit
-  stale data (2022-03-25 08:00:00)
 updating Chinook Pass - Base
-  stale data (2022-03-25 08:00:00)
 updating Mount Rainier - Camp Muir
 updating Mount Rainier - Paradise
 updating Mount Rainier - Paradise Wind
@@ -110,4 +106,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2022-03-25 16:24:37.729008
+*** end 2022-03-25 19:00:19.042399
