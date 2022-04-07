@@ -1,20 +1,18 @@
-*** begin 2022-04-07 10:10:06.707564
+*** begin 2022-04-07 14:10:02.894961
 updating Alpental - Base
 updating Alpental - Mid-Mountain
   stale data (2022-04-06 07:00:00)
 updating Alpental - Summit
 updating Olympics - Hurricane Ridge
-  stale data (2022-04-07 09:00:00)
 updating Mount Baker - Heather Meadows
 updating Mount Baker - Pan Dome
 updating Mazama - Mazama
-  stale data (2022-04-07 09:00:00)
+  stale data (2022-04-07 13:00:00)
 updating Washington Pass - Base
 updating Washington Pass - Upper
 updating Lake Wenatchee - Dirty Face Summit
-  stale data (2022-04-07 09:00:00)
 updating Lake Wenatchee - Lake Wenatchee
-  stale data (2022-04-07 09:00:00)
+  stale data (2022-04-07 13:00:00)
 updating Stevens Pass - Berne Snow Camp
 updating Stevens Pass - Schmidt Haus
 updating Stevens Pass - Grace Lakes
@@ -23,6 +21,7 @@ updating Stevens Pass - Brooks Wind
 updating Stevens Pass - Skyline
 updating Stevens Pass - Tye Mill
 updating Leavenworth - Tumwater Mountain
+  stale data (2022-04-07 13:00:00)
 updating Snoqualmie Pass - Mt Washington
   stale data (2022-04-07 07:00:00)
 updating Snoqualmie Pass - Snoqualmie Pass
@@ -34,7 +33,7 @@ updating Mission Ridge - Mid-Mountain
 updating Crystal - Green Valley
 updating Crystal - Base
 updating Crystal - Summit
-  stale data (2022-04-07 09:00:00)
+  stale data (2022-04-07 13:00:00)
 updating Sunrise - Upper
 updating Sunrise - Base
 updating Chinook Pass - Summit
@@ -45,7 +44,7 @@ updating Mount Rainier - Paradise Wind
 updating White Pass - Base
 updating White Pass - Upper
 updating Mount Saint Helens - Coldwater
-  stale data (2022-04-07 09:00:00)
+  stale data (2022-04-07 13:00:00)
 updating Mount Hood Meadows - Cascade Express
 updating Mount Hood Meadows - Blue
 updating Mount Hood Meadows - Base
@@ -55,7 +54,7 @@ updating Ski Bowl - Base
 updating Ski Bowl - Summit
 updating Blewett Pass - Blewett Pass
 updating White Pass - Pigtail Peak
-  stale data (2022-04-07 08:00:00)
+  stale data (2022-04-07 13:00:00)
 updating Stevens Pass - Brooks
 updating Crystal - Shop
   missing data
@@ -112,4 +111,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2022-04-07 10:11:15.070591
+*** end 2022-04-07 14:11:11.730279
