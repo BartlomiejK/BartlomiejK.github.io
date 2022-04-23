@@ -1,18 +1,16 @@
-*** begin 2022-04-22 22:10:06.439339
+*** begin 2022-04-23 06:10:02.852029
 updating Alpental - Base
 updating Alpental - Mid-Mountain
 updating Alpental - Summit
 updating Olympics - Hurricane Ridge
-  stale data (2022-04-22 21:00:00)
 updating Mount Baker - Heather Meadows
 updating Mount Baker - Pan Dome
 updating Mazama - Mazama
-  stale data (2022-04-22 21:00:00)
+  stale data (2022-04-23 05:00:00)
 updating Washington Pass - Base
 updating Washington Pass - Upper
 updating Lake Wenatchee - Dirty Face Summit
 updating Lake Wenatchee - Lake Wenatchee
-  stale data (2022-04-22 21:00:00)
 updating Stevens Pass - Berne Snow Camp
 updating Stevens Pass - Schmidt Haus
 updating Stevens Pass - Grace Lakes
@@ -22,7 +20,6 @@ updating Stevens Pass - Skyline
 updating Stevens Pass - Tye Mill
 updating Leavenworth - Tumwater Mountain
 updating Snoqualmie Pass - Mt Washington
-  stale data (2022-04-22 07:00:00)
 updating Snoqualmie Pass - Snoqualmie Pass
 updating Snoqualmie Pass - Dodge Ridge
 updating Snoqualmie Pass - East Shed
@@ -32,7 +29,7 @@ updating Mission Ridge - Mid-Mountain
 updating Crystal - Green Valley
 updating Crystal - Base
 updating Crystal - Summit
-  stale data (2022-04-22 21:00:00)
+  stale data (2022-04-23 05:00:00)
 updating Sunrise - Upper
 updating Sunrise - Base
 updating Chinook Pass - Summit
@@ -43,7 +40,7 @@ updating Mount Rainier - Paradise Wind
 updating White Pass - Base
 updating White Pass - Upper
 updating Mount Saint Helens - Coldwater
-  stale data (2022-04-22 21:00:00)
+  stale data (2022-04-23 05:00:00)
 updating Mount Hood Meadows - Cascade Express
 updating Mount Hood Meadows - Blue
 updating Mount Hood Meadows - Base
@@ -110,4 +107,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2022-04-22 22:11:09.108597
+*** end 2022-04-23 06:11:08.972017
