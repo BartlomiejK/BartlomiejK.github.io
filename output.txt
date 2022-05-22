@@ -1,4 +1,4 @@
-*** begin 2022-05-21 11:49:16.879923
+*** begin 2022-05-21 15:51:05.242289
 updating Alpental - Base
 updating Alpental - Mid-Mountain
 updating Alpental - Summit
@@ -27,10 +27,8 @@ updating Mission Ridge - Base
 updating Mission Ridge - Summit
 updating Mission Ridge - Mid-Mountain
 updating Crystal - Green Valley
-  stale data (2022-05-18 17:00:00)
 updating Crystal - Base
 updating Crystal - Summit
-  stale data (2022-05-18 17:00:00)
 updating Sunrise - Upper
 updating Sunrise - Base
 updating Chinook Pass - Summit
@@ -108,4 +106,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2022-05-21 13:50:28.177588
+*** end 2022-05-21 17:52:18.086541
