@@ -1,9 +1,9 @@
-*** begin 2022-05-24 06:18:57.805451
+*** begin 2022-05-24 10:20:46.119809
 updating Alpental - Base
 updating Alpental - Mid-Mountain
 updating Alpental - Summit
 updating Olympics - Hurricane Ridge
-  stale data (2022-05-24 05:00:00)
+  stale data (2022-05-24 08:00:00)
 updating Mount Baker - Heather Meadows
 updating Mount Baker - Pan Dome
 updating Mazama - Mazama
@@ -20,6 +20,7 @@ updating Stevens Pass - Skyline
 updating Stevens Pass - Tye Mill
 updating Leavenworth - Tumwater Mountain
 updating Snoqualmie Pass - Mt Washington
+  stale data (2022-05-24 08:00:00)
 updating Snoqualmie Pass - Snoqualmie Pass
 updating Snoqualmie Pass - Dodge Ridge
 updating Snoqualmie Pass - East Shed
@@ -106,4 +107,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2022-05-24 08:20:01.059213
+*** end 2022-05-24 12:21:50.234233
