@@ -1,9 +1,9 @@
-*** begin 2022-05-25 10:31:31.514187
+*** begin 2022-05-25 14:33:19.263035
 updating Alpental - Base
 updating Alpental - Mid-Mountain
 updating Alpental - Summit
 updating Olympics - Hurricane Ridge
-  stale data (2022-05-25 07:00:00)
+  stale data (2022-05-25 11:00:00)
 updating Mount Baker - Heather Meadows
 updating Mount Baker - Pan Dome
 updating Mazama - Mazama
@@ -30,7 +30,7 @@ updating Mission Ridge - Mid-Mountain
 updating Crystal - Green Valley
 updating Crystal - Base
 updating Crystal - Summit
-  stale data (2022-05-25 09:00:00)
+  stale data (2022-05-25 13:00:00)
 updating Sunrise - Upper
 updating Sunrise - Base
 updating Chinook Pass - Summit
@@ -108,4 +108,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2022-05-25 12:32:37.526022
+*** end 2022-05-25 16:34:20.495666
