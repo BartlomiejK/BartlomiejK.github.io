@@ -1,4 +1,4 @@
-*** begin 2022-05-26 22:47:43.429748
+*** begin 2022-05-27 06:51:18.187766
 updating Alpental - Base
 updating Alpental - Mid-Mountain
 updating Alpental - Summit
@@ -7,7 +7,9 @@ updating Mount Baker - Heather Meadows
 updating Mount Baker - Pan Dome
 updating Mazama - Mazama
 updating Washington Pass - Base
+  stale data (2022-05-27 01:00:00)
 updating Washington Pass - Upper
+  stale data (2022-05-27 01:00:00)
 updating Lake Wenatchee - Dirty Face Summit
 updating Lake Wenatchee - Lake Wenatchee
 updating Stevens Pass - Berne Snow Camp
@@ -19,7 +21,6 @@ updating Stevens Pass - Skyline
 updating Stevens Pass - Tye Mill
 updating Leavenworth - Tumwater Mountain
 updating Snoqualmie Pass - Mt Washington
-  stale data (2022-05-26 08:00:00)
 updating Snoqualmie Pass - Snoqualmie Pass
 updating Snoqualmie Pass - Dodge Ridge
 updating Snoqualmie Pass - East Shed
@@ -29,7 +30,7 @@ updating Mission Ridge - Mid-Mountain
 updating Crystal - Green Valley
 updating Crystal - Base
 updating Crystal - Summit
-  stale data (2022-05-26 21:00:00)
+  stale data (2022-05-27 05:00:00)
 updating Sunrise - Upper
 updating Sunrise - Base
 updating Chinook Pass - Summit
@@ -107,4 +108,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2022-05-27 00:48:43.695951
+*** end 2022-05-27 08:52:27.317102
