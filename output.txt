@@ -1,64 +1,8 @@
-*** begin 2022-06-23 09:37:36.916008
-updating Alpental - Base
-  retrying (5 left)...
-updating Alpental - Mid-Mountain
-updating Alpental - Summit
-updating Olympics - Hurricane Ridge
-  stale data (2022-06-23 07:00:00)
-updating Mount Baker - Heather Meadows
-updating Mount Baker - Pan Dome
-updating Mazama - Mazama
-updating Washington Pass - Base
-updating Washington Pass - Upper
-updating Lake Wenatchee - Dirty Face Summit
-updating Lake Wenatchee - Lake Wenatchee
-updating Stevens Pass - Berne Snow Camp
-updating Stevens Pass - Schmidt Haus
-updating Stevens Pass - Grace Lakes
+*** begin 2022-06-23 10:10:04.627733
 updating Stevens Pass - Brooks Wind
   missing data
-updating Stevens Pass - Skyline
-updating Stevens Pass - Tye Mill
-updating Leavenworth - Tumwater Mountain
-  stale data (2022-06-23 08:00:00)
-updating Snoqualmie Pass - Mt Washington
-updating Snoqualmie Pass - Snoqualmie Pass
-updating Snoqualmie Pass - Dodge Ridge
-updating Snoqualmie Pass - East Shed
-updating Mission Ridge - Base
-updating Mission Ridge - Summit
-updating Mission Ridge - Mid-Mountain
-updating Crystal - Green Valley
-updating Crystal - Base
-updating Crystal - Summit
-  stale data (2022-06-23 08:00:00)
-updating Sunrise - Upper
-updating Sunrise - Base
-updating Chinook Pass - Summit
-  stale data (2022-06-22 11:00:00)
-updating Chinook Pass - Base
-updating Mount Rainier - Camp Muir
-updating Mount Rainier - Paradise
-updating Mount Rainier - Paradise Wind
-updating White Pass - Base
-updating White Pass - Upper
-updating Mount Saint Helens - Coldwater
-updating Mount Hood Meadows - Cascade Express
-updating Mount Hood Meadows - Blue
-updating Mount Hood Meadows - Base
-updating Timberline - Lodge
-updating Timberline - Magic Mile
-updating Ski Bowl - Base
-updating Ski Bowl - Summit
-updating Blewett Pass - Blewett Pass
-updating White Pass - Pigtail Peak
-  stale data (2022-04-13 19:00:00)
-updating Stevens Pass - Brooks
-  stale data (2022-05-01 11:00:00)
 updating Crystal - Shop
   missing data
-updating Leavenworth - Leavenworth
-updating Crystal - Campbell Basin
 processing Alpental - Base
 processing Alpental - Mid-Mountain
 processing Alpental - Summit
@@ -110,4 +54,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2022-06-23 09:42:13.784706
+*** end 2022-06-23 10:10:44.208128
