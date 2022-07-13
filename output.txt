@@ -1,4 +1,4 @@
-*** begin 2022-07-12 22:10:07.656908
+*** begin 2022-07-13 06:10:05.510759
 updating Alpental - Base
   stale data (2022-06-27 17:00:00)
 updating Alpental - Mid-Mountain
@@ -8,11 +8,10 @@ updating Olympics - Hurricane Ridge
 updating Mount Baker - Heather Meadows
 updating Mount Baker - Pan Dome
 updating Mazama - Mazama
-  stale data (2022-07-12 21:00:00)
+  stale data (2022-07-13 05:00:00)
 updating Washington Pass - Base
 updating Washington Pass - Upper
 updating Lake Wenatchee - Dirty Face Summit
-  stale data (2022-07-12 21:00:00)
 updating Lake Wenatchee - Lake Wenatchee
 updating Stevens Pass - Berne Snow Camp
 updating Stevens Pass - Schmidt Haus
@@ -23,7 +22,7 @@ updating Stevens Pass - Skyline
 updating Stevens Pass - Tye Mill
 updating Leavenworth - Tumwater Mountain
 updating Snoqualmie Pass - Mt Washington
-  stale data (2022-07-12 11:00:00)
+  stale data (2022-07-13 05:00:00)
 updating Snoqualmie Pass - Snoqualmie Pass
 updating Snoqualmie Pass - Dodge Ridge
 updating Snoqualmie Pass - East Shed
@@ -33,18 +32,20 @@ updating Mission Ridge - Mid-Mountain
 updating Crystal - Green Valley
 updating Crystal - Base
 updating Crystal - Summit
-  stale data (2022-07-12 21:00:00)
+  stale data (2022-07-13 05:00:00)
 updating Sunrise - Upper
 updating Sunrise - Base
 updating Chinook Pass - Summit
 updating Chinook Pass - Base
 updating Mount Rainier - Camp Muir
+  stale data (2022-07-13 05:00:00)
 updating Mount Rainier - Paradise
 updating Mount Rainier - Paradise Wind
 updating White Pass - Base
+  stale data (2022-07-13 05:00:00)
 updating White Pass - Upper
 updating Mount Saint Helens - Coldwater
-  stale data (2022-07-12 21:00:00)
+  stale data (2022-07-13 05:00:00)
 updating Mount Hood Meadows - Cascade Express
 updating Mount Hood Meadows - Blue
 updating Mount Hood Meadows - Base
@@ -54,6 +55,7 @@ updating Ski Bowl - Base
 updating Ski Bowl - Summit
   stale data (2022-07-11 11:00:00)
 updating Blewett Pass - Blewett Pass
+  stale data (2022-07-13 05:00:00)
 updating White Pass - Pigtail Peak
   stale data (2022-04-13 19:00:00)
 updating Stevens Pass - Brooks
@@ -113,4 +115,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2022-07-12 22:11:15.343207
+*** end 2022-07-13 06:11:11.967737
