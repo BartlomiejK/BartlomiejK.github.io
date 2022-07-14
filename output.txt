@@ -1,15 +1,15 @@
-*** begin 2022-07-14 06:10:06.536098
+*** begin 2022-07-14 10:10:03.622419
 updating Alpental - Base
   stale data (2022-06-27 17:00:00)
 updating Alpental - Mid-Mountain
   stale data (2022-07-03 02:00:00)
 updating Alpental - Summit
 updating Olympics - Hurricane Ridge
-  stale data (2022-07-14 05:00:00)
+  stale data (2022-07-14 09:00:00)
 updating Mount Baker - Heather Meadows
 updating Mount Baker - Pan Dome
 updating Mazama - Mazama
-  stale data (2022-07-14 05:00:00)
+  stale data (2022-07-14 09:00:00)
 updating Washington Pass - Base
 updating Washington Pass - Upper
 updating Lake Wenatchee - Dirty Face Summit
@@ -30,22 +30,27 @@ updating Mission Ridge - Base
 updating Mission Ridge - Summit
 updating Mission Ridge - Mid-Mountain
 updating Crystal - Green Valley
+  stale data (2022-07-14 09:00:00)
 updating Crystal - Base
 updating Crystal - Summit
-  stale data (2022-07-14 05:00:00)
+  stale data (2022-07-14 08:00:00)
 updating Sunrise - Upper
+  stale data (2022-07-14 09:00:00)
 updating Sunrise - Base
+  stale data (2022-07-14 09:00:00)
 updating Chinook Pass - Summit
+  stale data (2022-07-14 09:00:00)
 updating Chinook Pass - Base
+  stale data (2022-07-14 09:00:00)
 updating Mount Rainier - Camp Muir
-  stale data (2022-07-14 05:00:00)
+  stale data (2022-07-14 09:00:00)
 updating Mount Rainier - Paradise
 updating Mount Rainier - Paradise Wind
 updating White Pass - Base
   stale data (2022-07-13 05:00:00)
 updating White Pass - Upper
 updating Mount Saint Helens - Coldwater
-  stale data (2022-07-14 05:00:00)
+  stale data (2022-07-14 09:00:00)
 updating Mount Hood Meadows - Cascade Express
 updating Mount Hood Meadows - Blue
 updating Mount Hood Meadows - Base
@@ -114,4 +119,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2022-07-14 06:11:11.547091
+*** end 2022-07-14 10:11:09.405131
