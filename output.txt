@@ -1,4 +1,4 @@
-*** begin 2022-07-19 11:53:54.723626
+*** begin 2022-07-19 15:55:39.692994
 updating Alpental - Base
   stale data (2022-06-27 17:00:00)
 updating Alpental - Mid-Mountain
@@ -49,9 +49,7 @@ updating Timberline - Lodge
 updating Timberline - Magic Mile
 updating Ski Bowl - Base
 updating Ski Bowl - Summit
-  stale data (2022-07-11 11:00:00)
 updating Blewett Pass - Blewett Pass
-  stale data (2022-07-19 09:00:00)
 updating White Pass - Pigtail Peak
   stale data (2022-04-13 19:00:00)
 updating Stevens Pass - Brooks
@@ -111,4 +109,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2022-07-19 13:55:03.932728
+*** end 2022-07-19 17:56:47.379650
