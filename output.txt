@@ -1,4 +1,4 @@
-*** begin 2022-07-21 10:14:36.177337
+*** begin 2022-07-21 14:16:21.026560
 updating Alpental - Base
 updating Alpental - Mid-Mountain
   stale data (2022-07-03 02:00:00)
@@ -108,4 +108,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2022-07-21 12:15:45.360132
+*** end 2022-07-21 16:17:35.080599
