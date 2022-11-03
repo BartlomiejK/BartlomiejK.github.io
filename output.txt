@@ -1,18 +1,17 @@
-*** begin 2022-11-03 10:10:08.140008
+*** begin 2022-11-03 14:10:08.368653
 updating Alpental - Base
 updating Alpental - Mid-Mountain
 updating Alpental - Summit
 updating Olympics - Hurricane Ridge
-  stale data (2022-11-03 09:00:00)
 updating Mount Baker - Heather Meadows
 updating Mount Baker - Pan Dome
 updating Mazama - Mazama
-  stale data (2022-11-03 09:00:00)
+  stale data (2022-11-03 13:00:00)
 updating Washington Pass - Base
 updating Washington Pass - Upper
 updating Lake Wenatchee - Dirty Face Summit
 updating Lake Wenatchee - Lake Wenatchee
-  stale data (2022-11-03 09:00:00)
+  stale data (2022-11-03 13:00:00)
 updating Stevens Pass - Berne Snow Camp
 updating Stevens Pass - Schmidt Haus
 updating Stevens Pass - Grace Lakes
@@ -28,22 +27,22 @@ updating Snoqualmie Pass - East Shed
 updating Mission Ridge - Base
 updating Mission Ridge - Summit
 updating Mission Ridge - Mid-Mountain
-  stale data (2022-11-02 09:00:00)
 updating Crystal - Green Valley
 updating Crystal - Base
 updating Crystal - Summit
 updating Sunrise - Upper
 updating Sunrise - Base
 updating Chinook Pass - Summit
+  stale data (2022-11-03 13:00:00)
 updating Chinook Pass - Base
 updating Mount Rainier - Camp Muir
-  stale data (2022-11-03 09:00:00)
+  stale data (2022-11-03 13:00:00)
 updating Mount Rainier - Paradise
 updating Mount Rainier - Paradise Wind
 updating White Pass - Base
 updating White Pass - Upper
 updating Mount Saint Helens - Coldwater
-  stale data (2022-11-03 09:00:00)
+  stale data (2022-11-03 13:00:00)
 updating Mount Hood Meadows - Cascade Express
 updating Mount Hood Meadows - Blue
 updating Mount Hood Meadows - Base
@@ -54,7 +53,6 @@ updating Ski Bowl - Summit
 updating Blewett Pass - Blewett Pass
 updating White Pass - Pigtail Peak
 updating Stevens Pass - Brooks
-  stale data (2022-05-01 11:00:00)
 updating Crystal - Shop
   missing data
 updating Leavenworth - Leavenworth
@@ -110,4 +108,4 @@ processing Stevens Pass - Brooks
 processing Crystal - Shop
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2022-11-03 10:11:53.651127
+*** end 2022-11-03 14:11:54.301800
