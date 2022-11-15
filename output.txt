@@ -1,13 +1,13 @@
-*** begin 2022-11-15 06:10:07.032432
+*** begin 2022-11-15 10:10:06.448676
 updating Alpental - Base
 updating Alpental - Mid-Mountain
 updating Alpental - Summit
 updating Olympics - Hurricane Ridge
-  stale data (2022-11-15 05:00:00)
+  stale data (2022-11-15 09:00:00)
 updating Mount Baker - Heather Meadows
 updating Mount Baker - Pan Dome
 updating Mazama - Mazama
-  stale data (2022-11-15 05:00:00)
+  stale data (2022-11-15 09:00:00)
 updating Washington Pass - Base
 updating Washington Pass - Upper
 updating Lake Wenatchee - Dirty Face Summit
@@ -30,11 +30,8 @@ updating Snoqualmie Pass - Snoqualmie Pass
 updating Snoqualmie Pass - Dodge Ridge
 updating Snoqualmie Pass - East Shed
 updating Mission Ridge - Base
-  stale data (2022-11-04 07:00:00)
 updating Mission Ridge - Summit
-  stale data (2022-11-04 07:00:00)
 updating Mission Ridge - Mid-Mountain
-  stale data (2022-11-04 07:00:00)
 updating Crystal - Green Valley
 updating Crystal - Base
 updating Crystal - Summit
@@ -43,7 +40,7 @@ updating Sunrise - Base
 updating Chinook Pass - Summit
 updating Chinook Pass - Base
 updating Mount Rainier - Camp Muir
-  stale data (2022-11-15 05:00:00)
+  stale data (2022-11-15 09:00:00)
 updating Mount Rainier - Paradise
 updating Mount Rainier - Paradise Wind
 updating White Pass - Base
@@ -53,10 +50,10 @@ updating Mount Hood Meadows - Cascade Express
 updating Mount Hood Meadows - Blue
 updating Mount Hood Meadows - Base
 updating Timberline - Lodge
-  stale data (2022-11-04 08:00:00)
 updating Timberline - Magic Mile
 updating Ski Bowl - Base
 updating Ski Bowl - Summit
+  stale data (2022-11-15 07:00:00)
 updating Blewett Pass - Blewett Pass
 updating White Pass - Pigtail Peak
 updating Stevens Pass - Brooks
