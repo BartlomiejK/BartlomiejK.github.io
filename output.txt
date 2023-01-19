@@ -1,1 +1,58 @@
-Log started Thu Jan 19 10:10:03 PST 2023...
+Log started Thu Jan 19 10:57:53 PST 2023...
+Executing: git pull
+Already up to date.
+Executing: /Library/Frameworks/Python.framework/Versions/3.7/bin/python3 snow_oracle2.py
+*** begin 2023-01-19 10:58:19.157968
+processing Alpental - Base
+processing Alpental - Mid-Mountain
+processing Alpental - Summit
+processing Olympics - Hurricane Ridge
+processing Mount Baker - Heather Meadows
+processing Mount Baker - Pan Dome
+processing Mazama - Mazama
+processing Washington Pass - Base
+processing Washington Pass - Upper
+processing Lake Wenatchee - Dirty Face Summit
+processing Lake Wenatchee - Lake Wenatchee
+processing Stevens Pass - Berne Snow Camp
+processing Stevens Pass - Schmidt Haus
+processing Stevens Pass - Grace Lakes
+processing Stevens Pass - Skyline
+processing Stevens Pass - Tye Mill
+processing Leavenworth - Tumwater Mountain
+processing Snoqualmie Pass - Mt Washington
+processing Snoqualmie Pass - Snoqualmie Pass
+processing Snoqualmie Pass - Dodge Ridge
+processing Snoqualmie Pass - East Shed
+processing Mission Ridge - Base
+processing Mission Ridge - Summit
+processing Mission Ridge - Mid-Mountain
+processing Crystal - Green Valley
+processing Crystal - Base
+processing Crystal - Summit
+processing Sunrise - Upper
+processing Sunrise - Base
+processing Chinook Pass - Summit
+processing Chinook Pass - Base
+processing Mount Rainier - Camp Muir
+processing Mount Rainier - Paradise
+processing Mount Rainier - Paradise Wind
+processing White Pass - Base
+processing White Pass - Upper
+processing Mount Saint Helens - Coldwater
+processing Mount Hood Meadows - Cascade Express
+processing Mount Hood Meadows - Blue
+processing Mount Hood Meadows - Base
+processing Timberline - Lodge
+processing Timberline - Magic Mile
+processing Ski Bowl - Base
+processing Ski Bowl - Summit
+processing Blewett Pass - Blewett Pass
+processing White Pass - Pigtail Peak
+processing Stevens Pass - Brooks
+processing Leavenworth - Leavenworth
+processing Crystal - Campbell Basin
+*** end 2023-01-19 10:58:53.184924
+Executing: cp ./site/events.html ./site/index.html ./site/layers_3_days.html ./site/layers_7_days.html ../snow_oracle_site
+Executing: cd ../snow_oracle_site
+Executing: git add --all
