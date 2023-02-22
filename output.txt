@@ -1,8 +1,8 @@
-Log started Tue Feb 21 06:10:00 PST 2023...
+Log started Tue Feb 21 18:10:01 PST 2023...
 Executing: git pull
 Already up to date.
 Executing: /Library/Frameworks/Python.framework/Versions/3.7/bin/python3 snow_oracle2.py
-*** begin 2023-02-21 06:10:04.951997
+*** begin 2023-02-21 18:10:05.489020
 updating Alpental - Base
   retrying (5 left)...
   retrying (4 left)...
@@ -16,17 +16,15 @@ updating Olympics - Hurricane Ridge
 updating Mount Baker - Heather Meadows
 updating Mount Baker - Pan Dome
 updating Mazama - Mazama
-  stale data (2023-02-21 05:00:00)
+  stale data (2023-02-21 17:00:00)
 updating Washington Pass - Base
 updating Washington Pass - Upper
 updating Lake Wenatchee - Dirty Face Summit
 updating Lake Wenatchee - Lake Wenatchee
-  stale data (2023-02-21 05:00:00)
 updating Stevens Pass - Berne Snow Camp
 updating Stevens Pass - Schmidt Haus
 updating Stevens Pass - Grace Lakes
 updating Stevens Pass - Skyline
-  stale data (2023-02-21 02:00:00)
 updating Stevens Pass - Tye Mill
 updating Leavenworth - Tumwater Mountain
 updating Snoqualmie Pass - Mt Washington
@@ -44,14 +42,15 @@ updating Sunrise - Base
 updating Chinook Pass - Summit
 updating Chinook Pass - Base
 updating Mount Rainier - Camp Muir
-  stale data (2023-02-21 05:00:00)
+  stale data (2023-02-21 17:00:00)
 updating Mount Rainier - Paradise
 updating Mount Rainier - Paradise Wind
 updating White Pass - Base
 updating White Pass - Upper
 updating Mount Saint Helens - Coldwater
-  stale data (2023-02-21 05:00:00)
+  stale data (2023-02-21 17:00:00)
 updating Mount Hood Meadows - Cascade Express
+  stale data (2023-02-21 17:00:00)
 updating Mount Hood Meadows - Blue
 updating Mount Hood Meadows - Base
 updating Timberline - Lodge
@@ -113,7 +112,7 @@ processing White Pass - Pigtail Peak
 processing Stevens Pass - Brooks
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2023-02-21 06:15:12.770850
+*** end 2023-02-21 18:15:18.532552
 Executing: cp ./site/events.html ./site/index.html ./site/layers_3_days.html ./site/layers_7_days.html ../snow_oracle_site
 Executing: cd ../snow_oracle_site
 Executing: git add --all
