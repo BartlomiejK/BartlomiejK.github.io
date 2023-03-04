@@ -1,8 +1,8 @@
-Log started Fri Mar  3 18:10:06 PST 2023...
+Log started Sat Mar  4 06:10:05 PST 2023...
 Executing: git pull
 Already up to date.
 Executing: /Library/Frameworks/Python.framework/Versions/3.7/bin/python3 snow_oracle2.py
-*** begin 2023-03-03 18:10:10.338126
+*** begin 2023-03-04 06:10:09.079902
 updating Alpental - Base
   retrying (5 left)...
   retrying (4 left)...
@@ -16,7 +16,7 @@ updating Olympics - Hurricane Ridge
 updating Mount Baker - Heather Meadows
 updating Mount Baker - Pan Dome
 updating Mazama - Mazama
-  stale data (2023-03-03 17:00:00)
+  stale data (2023-03-04 05:00:00)
 updating Washington Pass - Base
   stale data (2023-03-03 17:00:00)
 updating Washington Pass - Upper
@@ -44,13 +44,13 @@ updating Sunrise - Base
 updating Chinook Pass - Summit
 updating Chinook Pass - Base
 updating Mount Rainier - Camp Muir
-  stale data (2023-03-03 17:00:00)
+  stale data (2023-03-04 05:00:00)
 updating Mount Rainier - Paradise
 updating Mount Rainier - Paradise Wind
 updating White Pass - Base
 updating White Pass - Upper
 updating Mount Saint Helens - Coldwater
-  stale data (2023-03-03 17:00:00)
+  stale data (2023-03-04 05:00:00)
 updating Mount Hood Meadows - Cascade Express
 updating Mount Hood Meadows - Blue
 updating Mount Hood Meadows - Base
@@ -113,7 +113,7 @@ processing White Pass - Pigtail Peak
 processing Stevens Pass - Brooks
 processing Leavenworth - Leavenworth
 processing Crystal - Campbell Basin
-*** end 2023-03-03 18:15:32.991419
+*** end 2023-03-04 06:15:36.671176
 Executing: cp ./site/events.html ./site/index.html ./site/layers_3_days.html ./site/layers_7_days.html ../snow_oracle_site
 Executing: cd ../snow_oracle_site
 Executing: git add --all
